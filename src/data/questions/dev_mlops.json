@@ -1,0 +1,2344 @@
+[
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "Why do you want to work at this organization?",
+    "ideal_answer": "I would love to work at this organization because it offers an exciting and challenging work environment. I am attracted to the company's strong focus on innovation and its commitment to delivering high-quality products and services to its customers.",
+    "keywords": [
+      "innovation",
+      "commitment",
+      "customer",
+      "products",
+      "services"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How do you handle conflicts at the workplace?",
+    "ideal_answer": "I believe effective conflict resolution requires active listening, empathy, and a willingness to compromise. In the workplace, I would prioritize clear communication and understanding the other party's perspective.",
+    "keywords": [
+      "conflicts",
+      "workplace",
+      "effective communication",
+      "compromise"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How long have you been in the software development industry?",
+    "ideal_answer": "Around 6 years",
+    "keywords": [
+      "software",
+      "development",
+      "industry"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "If you were supervising a team of junior engineers, what would you do to help them grow and succeed?",
+    "ideal_answer": "I would provide them with the necessary tools and resources to help them learn and grow. I would also provide them with feedback and guidance to help them improve their skills and knowledge.",
+    "keywords": [
+      "team",
+      "junior engineers",
+      "grow",
+      "succeed",
+      "tools",
+      "resources"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.167
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "If you could get any superpower what would it be?",
+    "ideal_answer": "to fly",
+    "keywords": [
+      "devops",
+      "mlo",
+      "superpower"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "Do you have work authorization for the United States?",
+    "ideal_answer": "Yep",
+    "keywords": [
+      "work",
+      "authorization",
+      "united",
+      "states"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "Tell me about a time when you had to work under pressure.",
+    "ideal_answer": "Last year, I was working on a critical project that had a tight deadline. I had to work on a new technology that I was not familiar with. I had to work extra hours to complete the project on time. I was able to learn the new technology quickly and successfully completed the project on time.",
+    "keywords": [
+      "Work Under Pressure",
+      "Technology Learning",
+      "Critical Projects",
+      "Project Deadlines"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How do you propose to keep your team motivated?",
+    "ideal_answer": "By creating an environment where they can grow and learn",
+    "keywords": [
+      "motivation",
+      "team"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.5
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How do you feel about the company's diversity and inclusion initiatives?",
+    "ideal_answer": "I am very much supportive of the initiatives.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What is your ideal role and career progression?",
+    "ideal_answer": "Ideally, I would like to be in a DevOps + MLOps Engineer role where I can gain experience in both DevOps and MLOps. I am looking to progress my career in this area and continue to learn and develop my skills.",
+    "keywords": [
+      "DevOps",
+      "MLOps",
+      "Engineer",
+      "Career Progression"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What's the difference between ML and AI?",
+    "ideal_answer": "Machine learning is a subset of artificial intelligence (AI) that deals with algorithms or machines learning from data.",
+    "keywords": [
+      "machine",
+      "learning",
+      "artificial",
+      "intelligence"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What is your opinion about the DevOps + MLOps Engineer role?",
+    "ideal_answer": "I think DevOps + MLOps Engineer is a very important job for an organization. This role is responsible for the entire deployment and management of the organization's infrastructure, as well as the implementation of machine learning algorithms.",
+    "keywords": [
+      "DevOps",
+      "MLOps",
+      "Deployment",
+      "Management"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What are the major issues you faced while working in a team?",
+    "ideal_answer": "Telling the interviewer about the challenges that I faced while working in a team.",
+    "keywords": [
+      "team work",
+      "team",
+      "challenges",
+      "collaboration",
+      "communication"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How do you stay up to date with the latest DevOps and MLOps technologies and best practices?",
+    "ideal_answer": "I stay up to date with the latest DevOps and MLOps technologies and best practices by regularly attending industry events, reading industry publications, and participating in online communities. I also keep up with new developments by taking relevant courses and certifications.",
+    "keywords": [
+      "stay up-to-date",
+      "DevOps",
+      "MLOps",
+      "technologies",
+      "best practices"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What is your favourite sport?",
+    "ideal_answer": "Cricket",
+    "keywords": [
+      "sport",
+      "team",
+      "game"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "Do you have any questions for me?",
+    "ideal_answer": "Yes, could the job description be more specific?",
+    "keywords": [
+      "job",
+      "role",
+      "specific",
+      "questions"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What are your hobbies?",
+    "ideal_answer": "I enjoy playing golf and reading non-fiction",
+    "keywords": [
+      "hobbies",
+      "golf",
+      "reading",
+      "non-fiction"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "What are the common challenges that you faced while working as a DevOps Engineer?",
+    "ideal_answer": "Common challenges faced by DevOps Engineers include working with cross-functional teams, dealing with legacy systems, managing infrastructure costs, ensuring security and compliance, and adapting to new technologies and tools.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "How do you think you will fit in our company?",
+    "ideal_answer": "I believe that my experience in DevOps and MLOps would make me an excellent fit for the team. I am excited to collaborate with other developers and use my problem-solving skills to help the company succeed.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "HR",
+    "question": "Tell me some of your achievements outside of work.",
+    "ideal_answer": "I would say I have learnt to be more self-aware and understand my own personal limits and when to take a break. I also have better time management skills.",
+    "keywords": [
+      "achievements",
+      "job",
+      "outside",
+      "work"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the concept of Infrastructure as Code (IaC) and how tools like Terraform are used.",
+    "ideal_answer": "IaC is the practice of managing and provisioning infrastructure using code. Terraform allows declarative configuration and consistent deployment across environments.",
+    "keywords": [
+      "IaC",
+      "Terraform",
+      "infrastructure",
+      "declarative",
+      "provisioning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the purpose of a model registry in MLOps?",
+    "ideal_answer": "A model registry is used to manage model versions, track stage transitions (e.g., staging to production), and ensure traceability and governance in ML workflows.",
+    "keywords": [
+      "model registry",
+      "version",
+      "staging",
+      "production",
+      "governance"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between pipeline orchestration and workflow management in MLOps?",
+    "ideal_answer": "Pipeline orchestration manages execution order and dependencies, while workflow management provides broader control, scheduling, and error handling for complex ML lifecycles.",
+    "keywords": [
+      "pipeline",
+      "workflow",
+      "orchestration",
+      "scheduling",
+      "dependencies"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How do you handle model rollback in a CI/CD system?",
+    "ideal_answer": "Model rollback involves reverting to a previous stable model version using model registries, version control, or container image tags, ensuring service continuity.",
+    "keywords": [
+      "rollback",
+      "model version",
+      "registry",
+      "version control",
+      "CI/CD"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the difference between blue-green and rolling deployments.",
+    "ideal_answer": "Blue-green deployment involves two environments (blue and green) and switches traffic once the new version is ready, while rolling deployment updates services incrementally with no downtime.",
+    "keywords": [
+      "blue-green",
+      "rolling",
+      "deployment",
+      "zero-downtime",
+      "environments"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How do you handle dependency management in ML projects?",
+    "ideal_answer": "I use tools like pip, Conda, or poetry to define environments and requirements files, and Docker to encapsulate all dependencies for consistent execution.",
+    "keywords": [
+      "dependency",
+      "pip",
+      "Conda",
+      "Docker",
+      "requirements"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is concept drift and how does it differ from data drift?",
+    "ideal_answer": "Concept drift refers to changes in the relationship between input and output over time, while data drift refers to changes in the input data distribution.",
+    "keywords": [
+      "concept drift",
+      "data drift",
+      "distribution",
+      "input",
+      "output"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How do you ensure scalability of ML models in production?",
+    "ideal_answer": "I use Kubernetes to scale containers, set up horizontal pod autoscaling, and use load balancers to manage traffic and ensure responsiveness under load.",
+    "keywords": [
+      "scalability",
+      "Kubernetes",
+      "autoscaling",
+      "load balancer",
+      "production"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are shadow deployments and when would you use them?",
+    "ideal_answer": "Shadow deployments send real-time production traffic to a new model version without affecting user responses, helping validate model performance safely.",
+    "keywords": [
+      "shadow deployment",
+      "production",
+      "real-time",
+      "validate",
+      "safely"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are the best practices for logging in ML systems?",
+    "ideal_answer": "Best practices include structured logging, centralized log aggregation, logging inputs/outputs/errors, and setting appropriate log levels (INFO, ERROR, etc.).",
+    "keywords": [
+      "logging",
+      "structured",
+      "aggregation",
+      "log level",
+      "errors"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How does GitOps improve DevOps workflows?",
+    "ideal_answer": "GitOps uses Git as the source of truth for infrastructure and applications. It improves transparency, auditability, and allows automated syncing via CI/CD tools.",
+    "keywords": [
+      "GitOps",
+      "Git",
+      "automation",
+      "transparency",
+      "CI/CD"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is blue-green deployment and how is it beneficial?",
+    "ideal_answer": "Blue-green deployment runs two environments, switching traffic from old to new version, ensuring zero downtime and easy rollback.",
+    "keywords": [
+      "blue-green",
+      "deployment",
+      "rollback",
+      "downtime"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Describe how to use Prometheus and Grafana for monitoring ML systems.",
+    "ideal_answer": "Prometheus scrapes and stores metrics. Grafana visualizes them. Together, they help monitor ML models for latency, accuracy, and resource usage.",
+    "keywords": [
+      "Prometheus",
+      "Grafana",
+      "metrics",
+      "monitoring",
+      "latency"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are the best practices for logging in ML pipelines?",
+    "ideal_answer": "Use structured logging, include metadata, track model inputs/outputs, use centralized logging tools like ELK stack for analysis.",
+    "keywords": [
+      "logging",
+      "structured",
+      "metadata",
+      "inputs",
+      "ELK"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How do you handle data versioning in ML workflows?",
+    "ideal_answer": "Use tools like DVC or LakeFS to track changes in datasets over time, ensuring reproducibility and traceability in experiments.",
+    "keywords": [
+      "data versioning",
+      "DVC",
+      "LakeFS",
+      "reproducibility",
+      "traceability"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is concept drift and how do you mitigate it?",
+    "ideal_answer": "Concept drift is when the relationship between input and output changes. Use monitoring, retraining triggers, and drift detection algorithms.",
+    "keywords": [
+      "concept drift",
+      "monitoring",
+      "retraining",
+      "algorithms"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the difference between A/B testing and shadow deployment for ML models.",
+    "ideal_answer": "A/B testing splits users between models to compare performance. Shadow deployment runs the new model in parallel without affecting real users.",
+    "keywords": [
+      "A/B testing",
+      "shadow",
+      "users",
+      "parallel",
+      "performance"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is a model registry and how do you use it?",
+    "ideal_answer": "A model registry stores, tracks, and manages versions of models, their metadata, and artifacts to ensure reproducible deployments.",
+    "keywords": [
+      "model registry",
+      "version",
+      "metadata",
+      "artifacts",
+      "deployment"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How do you ensure scalability in serving ML models?",
+    "ideal_answer": "Use autoscaling with Kubernetes, model batching, and load balancing. Monitor metrics to scale horizontally.",
+    "keywords": [
+      "scalability",
+      "Kubernetes",
+      "batching",
+      "load balancing",
+      "autoscaling"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are some risks in deploying ML models and how do you mitigate them?",
+    "ideal_answer": "Risks include data drift, bias, model staleness, and outages. Mitigate through monitoring, testing, and fallback strategies.",
+    "keywords": [
+      "risks",
+      "bias",
+      "staleness",
+      "outages",
+      "fallback"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are the benefits of using Kubernetes Operators in MLOps?",
+    "ideal_answer": "Operators automate lifecycle management of ML applications like training and serving, integrating well with custom resources.",
+    "keywords": [
+      "Kubernetes",
+      "Operators",
+      "automation",
+      "training",
+      "resources"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the role of metadata in ML pipelines?",
+    "ideal_answer": "Metadata captures information like datasets, hyperparameters, and execution details for experiment tracking and reproducibility.",
+    "keywords": [
+      "metadata",
+      "datasets",
+      "hyperparameters",
+      "execution",
+      "reproducibility"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "How would you integrate ML with edge computing?",
+    "ideal_answer": "Convert models to lightweight formats like ONNX or TFLite, deploy on edge devices, and optimize for low latency and compute.",
+    "keywords": [
+      "edge",
+      "ONNX",
+      "TFLite",
+      "latency",
+      "compute"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Describe how a model deployment workflow looks using Seldon or KFServing.",
+    "ideal_answer": "You package the model, define inference services, deploy via Kubernetes CRDs, and monitor logs and metrics.",
+    "keywords": [
+      "Seldon",
+      "KFServing",
+      "Kubernetes",
+      "CRDs",
+      "inference"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What are ML metadata stores and how are they useful?",
+    "ideal_answer": "Metadata stores capture lineage and context about datasets, models, and runs for traceability and reproducibility.",
+    "keywords": [
+      "metadata store",
+      "lineage",
+      "traceability",
+      "datasets",
+      "runs"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "Why is resource management important in ML model training?",
+    "ideal_answer": "Training can be compute-intensive. Managing GPUs, memory, and I/O ensures efficient usage and prevents bottlenecks.",
+    "keywords": [
+      "resource",
+      "GPU",
+      "memory",
+      "training",
+      "bottlenecks"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the role of Argo Workflows in MLOps?",
+    "ideal_answer": "Argo orchestrates ML workflows as Kubernetes-native CRDs, enabling DAG-based execution, retries, and scalability.",
+    "keywords": [
+      "Argo",
+      "workflow",
+      "CRD",
+      "DAG",
+      "orchestration"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you implement a continuous integration and deployment (CI/CD) pipeline for an AI model in production?",
+    "ideal_answer": "For an AI model, I would use a CI/CD pipeline to automate the process of model training, testing, and deployment. I would set up version control (Git), integrate testing frameworks (unit tests, model validation), and ensure that the pipeline includes model performance validation as part of the CI process. For deployment, I would use Docker containers and Kubernetes for orchestration. The deployment pipeline would automatically push the model to a production environment and monitor its performance in real-time.",
+    "keywords": [
+      "CI/CD",
+      "AI model",
+      "version control",
+      "Docker",
+      "Kubernetes",
+      "model validation"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain how you would handle the retraining of an AI model based on changing data patterns and model drift.",
+    "ideal_answer": "To handle model retraining, I would set up an automated pipeline that triggers retraining when certain thresholds of model drift are detected. I would monitor model performance over time and use metrics like accuracy, precision, or recall to detect if the model is underperforming. Upon detecting drift, the pipeline would automatically retrain the model with fresh data. I would also implement a versioning system for models to keep track of the different iterations and rollback to a previous model if necessary.",
+    "keywords": [
+      "model retraining",
+      "model drift",
+      "automated pipeline",
+      "versioning",
+      "performance monitoring"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is model monitoring, and how do you ensure that AI models remain accurate and reliable after deployment?",
+    "ideal_answer": "Model monitoring involves tracking the performance of an AI model after deployment to ensure that it continues to provide accurate predictions. I would implement logging to capture model predictions, input data, and performance metrics in real-time. Tools like Prometheus, Grafana, or ELK stack can be used for real-time monitoring and alerting. I would also establish automated retraining triggers based on performance degradation or data drift to ensure the model remains accurate and reliable.",
+    "keywords": [
+      "model monitoring",
+      "model accuracy",
+      "real-time tracking",
+      "Prometheus",
+      "Grafana",
+      "data drift",
+      "automated retraining"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What are the challenges of scaling an AI system, and how would you address them in a cloud environment?",
+    "ideal_answer": "Scaling AI systems in the cloud involves challenges like managing compute resources, handling large data volumes, and optimizing model performance. To address this, I would use auto-scaling and load balancing features in cloud services like AWS or GCP to ensure efficient resource utilization. For large datasets, I would use distributed processing frameworks like Apache Spark. Additionally, I would ensure that models are containerized using Docker, allowing for consistent and scalable deployments.",
+    "keywords": [
+      "scaling AI",
+      "cloud environment",
+      "auto-scaling",
+      "load balancing",
+      "distributed processing",
+      "Docker",
+      "Apache Spark"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you implement data versioning for machine learning models, and why is it important?",
+    "ideal_answer": "Data versioning ensures that each dataset used for training and validation is tracked and reproducible. I would use tools like DVC (Data Version Control) or Pachyderm for versioning datasets. Each change in the dataset would be tracked with a version number, and the model’s performance can be tied to specific versions of the data. This is important for auditing, ensuring reproducibility, and maintaining consistency in the training process.",
+    "keywords": [
+      "data versioning",
+      "DVC",
+      "Pachyderm",
+      "reproducibility",
+      "model training",
+      "audit trail"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the difference between traditional software deployment and AI model deployment, and how would you address these differences in an MLOps pipeline?",
+    "ideal_answer": "Traditional software deployment involves code that is relatively static, while AI model deployment involves dynamic models that may require frequent updates due to retraining or performance issues. In an MLOps pipeline, I would incorporate automated model testing, monitoring, and versioning to ensure that models are deployed and maintained properly. The pipeline would also need to handle model rollback and rollback scenarios, as AI models are not as deterministic as traditional software.",
+    "keywords": [
+      "software deployment",
+      "AI model deployment",
+      "MLOps pipeline",
+      "automated testing",
+      "model versioning",
+      "model rollback"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain how you would set up a model deployment strategy to handle multiple versions of a model running in production.",
+    "ideal_answer": "I would implement a blue-green or canary deployment strategy to manage multiple versions of a model in production. The blue-green deployment involves running the new model (green) alongside the current version (blue) and gradually shifting traffic to the green model. A canary deployment would involve deploying the new model to a small subset of users first to test its performance before fully deploying it to all users. I would also use feature flags to enable or disable new features without affecting the rest of the system.",
+    "keywords": [
+      "blue-green deployment",
+      "canary deployment",
+      "model versioning",
+      "feature flags",
+      "traffic shifting"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the role of containerization in MLOps, and how would you use it to deploy AI models?",
+    "ideal_answer": "Containerization allows AI models to be packaged with their dependencies, ensuring that they can run consistently across different environments. I would use Docker to containerize the model, ensuring that all dependencies such as libraries, frameworks, and environment variables are included in the container. Kubernetes would then be used to orchestrate the deployment, scaling, and monitoring of containers. This ensures that the model can be deployed in a scalable and reproducible manner.",
+    "keywords": [
+      "containerization",
+      "MLOps",
+      "Docker",
+      "Kubernetes",
+      "AI model deployment",
+      "scalability"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain how you would implement a disaster recovery plan for AI models and their data in a cloud environment.",
+    "ideal_answer": "In a cloud environment, disaster recovery for AI models would involve creating backups of models, training datasets, and configurations. I would use cloud storage (e.g., AWS S3, GCP Cloud Storage) to back up models and data, ensuring they are regularly updated. Additionally, I would set up automated disaster recovery testing and ensure that all data and models are versioned. I would also have a recovery procedure to restore the last known good version of the model and data to minimize downtime and performance loss.",
+    "keywords": [
+      "disaster recovery",
+      "cloud environment",
+      "model backup",
+      "data backup",
+      "AWS S3",
+      "versioning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you ensure that AI models deployed in production are secure, and what measures would you take to prevent data leakage?",
+    "ideal_answer": "To ensure model security, I would use encryption at rest and in transit for all data related to the model. I would also use role-based access control (RBAC) to restrict access to sensitive model data and deploy the model in a secure environment, such as a private VPC (Virtual Private Cloud). Additionally, I would regularly audit access logs, implement anomaly detection systems, and ensure that data privacy regulations (like GDPR) are adhered to. To prevent data leakage, I would monitor and restrict any unauthorized access or sharing of sensitive data.",
+    "keywords": [
+      "model security",
+      "encryption",
+      "RBAC",
+      "VPC",
+      "data privacy",
+      "anomaly detection",
+      "GDPR"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What are the key considerations when selecting a cloud platform (AWS, GCP, Azure) for deploying AI models in production?",
+    "ideal_answer": "Key considerations include cost, scalability, performance, and the availability of AI-specific services. For instance, AWS offers SageMaker, which provides a managed environment for deploying models, while GCP provides TensorFlow Extended (TFX) for model deployment pipelines. Azure has Azure ML for end-to-end MLOps. I would also evaluate the platform's support for containerization (Docker), machine learning frameworks, and integration with existing cloud infrastructure.",
+    "keywords": [
+      "cloud platform",
+      "AWS",
+      "GCP",
+      "Azure",
+      "AI model deployment",
+      "cost",
+      "scalability",
+      "performance"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you implement automated scaling for AI models based on real-time inference load?",
+    "ideal_answer": "I would use a cloud-native auto-scaling service, such as AWS Auto Scaling or GCP's Compute Engine Autoscaler, to automatically scale the inference instances based on load. I would configure thresholds for CPU usage, memory consumption, or request rates that trigger scaling actions. Additionally, I would deploy the AI model in containers managed by Kubernetes, which can automatically scale pods to meet real-time demand.",
+    "keywords": [
+      "auto-scaling",
+      "AI model",
+      "real-time load",
+      "AWS Auto Scaling",
+      "GCP Autoscaler",
+      "Kubernetes",
+      "containers"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the importance of model explainability in MLOps, and how would you integrate it into a production environment?",
+    "ideal_answer": "Model explainability is crucial in understanding how models make decisions, especially for regulatory compliance and trust. I would use tools like SHAP or LIME to provide explanations of the model’s predictions. These tools can be integrated into the MLOps pipeline, providing real-time insights into model behavior. Additionally, I would log the model’s decision-making process and visualize it in a user-friendly dashboard for stakeholders.",
+    "keywords": [
+      "model explainability",
+      "SHAP",
+      "LIME",
+      "real-time insights",
+      "regulatory compliance"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What tools and practices would you recommend for model testing in an MLOps pipeline?",
+    "ideal_answer": "For model testing, I would use unit testing frameworks like PyTest and integrate them into the CI/CD pipeline. Additionally, I would test the model for performance using metrics like accuracy, precision, recall, and F1 score. I would also conduct A/B testing or canary testing to evaluate model performance under real-world conditions. Testing for model fairness, bias, and robustness is also crucial in the MLOps pipeline.",
+    "keywords": [
+      "model testing",
+      "unit testing",
+      "PyTest",
+      "performance metrics",
+      "A/B testing",
+      "model fairness",
+      "bias"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you handle versioning of machine learning models and their dependencies across different environments?",
+    "ideal_answer": "To handle versioning, I would use tools like DVC (Data Version Control) for tracking model versions and their dependencies. I would also create Docker images for consistent environments, ensuring that models are deployed with the correct libraries and versions. For managing dependencies, I would use Python's `requirements.txt` or `Pipenv` for reproducibility across environments. Additionally, I would implement a model registry to track model versions and their associated metadata.",
+    "keywords": [
+      "model versioning",
+      "DVC",
+      "Docker",
+      "requirements.txt",
+      "model registry",
+      "reproducibility"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain how you would implement an A/B testing strategy for comparing two versions of an AI model in production.",
+    "ideal_answer": "In an A/B testing strategy, I would deploy both models (A and B) in parallel in a production environment, ensuring they serve different subsets of user traffic. The models would process requests simultaneously, and their performance would be compared using metrics such as accuracy, latency, and user engagement. The results would be analyzed to determine which model performs better under real-world conditions. Traffic routing and model switching can be managed using feature flags or load balancing mechanisms.",
+    "keywords": [
+      "A/B testing",
+      "model comparison",
+      "real-world performance",
+      "feature flags",
+      "load balancing",
+      "traffic routing"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What steps would you take to ensure the security of data used in AI/ML model training, especially in multi-cloud environments?",
+    "ideal_answer": "To ensure data security, I would use encryption techniques for data at rest and in transit, ensuring that sensitive information is protected. In a multi-cloud environment, I would enforce strict access control policies and use identity and access management (IAM) to restrict who can access the data. I would also use VPNs or private network setups for secure communication between cloud environments. Additionally, I would implement data masking or tokenization for sensitive data and ensure compliance with data privacy regulations such as GDPR or CCPA.",
+    "keywords": [
+      "data security",
+      "encryption",
+      "IAM",
+      "VPN",
+      "data masking",
+      "GDPR",
+      "multi-cloud"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How do you approach scaling a model inference system to handle large volumes of requests in real-time?",
+    "ideal_answer": "To scale model inference in real-time, I would deploy the model as a microservice in a containerized environment using Kubernetes. By utilizing auto-scaling in Kubernetes, I would ensure that the number of pods (instances) increases or decreases based on the inference load. I would also implement load balancing to distribute the incoming requests efficiently across the available pods. For high-throughput scenarios, I would leverage batching to process multiple requests together, reducing latency and maximizing resource usage.",
+    "keywords": [
+      "scaling",
+      "real-time inference",
+      "Kubernetes",
+      "microservice",
+      "auto-scaling",
+      "load balancing",
+      "batching"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain how you would handle data preprocessing and augmentation for an AI model that is deployed in production.",
+    "ideal_answer": "Data preprocessing and augmentation are critical for maintaining model accuracy and robustness. In production, I would automate preprocessing steps, such as data cleaning, normalization, and feature extraction, within the MLOps pipeline. For augmentation, I would apply techniques such as random rotations, scaling, and cropping for image data or synthetic data generation for structured data. These steps would be included in the model training pipeline and executed consistently when new data arrives, ensuring the model is always trained on diverse and high-quality data.",
+    "keywords": [
+      "data preprocessing",
+      "data augmentation",
+      "automation",
+      "MLOps pipeline",
+      "data quality"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you implement a continuous model training pipeline that integrates new data automatically into the model's training process?",
+    "ideal_answer": "I would set up a continuous training pipeline that automatically detects new data and retrains the model. This pipeline would be triggered by events such as the arrival of new data in the data lake or a scheduled interval. I would use tools like Apache Airflow for workflow management and incorporate data validation checks before retraining the model. After training, I would evaluate the model's performance and automatically deploy it if it meets the performance thresholds, ensuring that the model is always up to date.",
+    "keywords": [
+      "continuous training",
+      "data pipeline",
+      "automated retraining",
+      "Apache Airflow",
+      "model performance",
+      "model deployment"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the concept of 'model drift', and how would you detect and handle it in a production environment?",
+    "ideal_answer": "Model drift refers to the degradation of model performance over time due to changes in the underlying data distribution. To detect drift, I would use monitoring tools to track model metrics like accuracy, precision, and recall in real-time. I would also monitor the input data to detect shifts in features or distributions using statistical tests. When drift is detected, I would trigger retraining with new data, and possibly adjust the model architecture or features. Additionally, I would implement automated alerts to notify the team when drift is detected.",
+    "keywords": [
+      "model drift",
+      "data distribution",
+      "model performance",
+      "monitoring",
+      "retraining",
+      "statistical tests"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you set up an automated model rollback mechanism in case a newly deployed model fails in production?",
+    "ideal_answer": "I would set up a rollback mechanism using version control and automated deployment tools. After deploying a new model, I would monitor its performance using metrics such as accuracy and response time. If the new model fails, the rollback mechanism would automatically revert to the previous stable version. This could be achieved using Kubernetes' rolling updates or feature flags, where a specific version of the model is marked as 'active' and can be quickly switched back if issues are detected.",
+    "keywords": [
+      "model rollback",
+      "automated deployment",
+      "version control",
+      "Kubernetes",
+      "feature flags",
+      "rolling updates"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How do you ensure that your MLOps pipeline is reproducible and scalable across different environments?",
+    "ideal_answer": "To ensure reproducibility, I would use containerization with Docker, ensuring that the environment and dependencies are consistent across all stages of the pipeline. For scalability, I would deploy the pipeline in a cloud-native environment using Kubernetes for orchestration, enabling the pipeline to scale as needed based on resource demands. I would also use tools like DVC for versioning datasets and models, ensuring that the entire pipeline can be replicated in different environments. Automation through CI/CD ensures that the process is repeatable and consistent.",
+    "keywords": [
+      "reproducibility",
+      "scalability",
+      "Docker",
+      "Kubernetes",
+      "cloud-native",
+      "DVC",
+      "CI/CD"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "What is model serving, and how would you implement it in a microservices architecture?",
+    "ideal_answer": "Model serving involves making the trained model available for inference requests. In a microservices architecture, I would deploy the model as a containerized service using Docker, and expose it via an API using frameworks like Flask or FastAPI. Kubernetes would manage the orchestration, allowing for auto-scaling and load balancing. This architecture ensures that the model is independently scalable and can interact with other microservices, such as data ingestion or post-processing services.",
+    "keywords": [
+      "model serving",
+      "microservices",
+      "API",
+      "Docker",
+      "Kubernetes",
+      "auto-scaling",
+      "load balancing"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "How do you ensure that the training data used in your MLOps pipeline is of high quality and meets compliance standards?",
+    "ideal_answer": "To ensure data quality, I would implement data validation checks in the pipeline, ensuring that the data meets the expected format, consistency, and range of values. I would also use automated tools to check for missing values, duplicates, and outliers. To meet compliance standards, I would implement data privacy policies, such as data anonymization and encryption, and ensure that the data handling adheres to regulations like GDPR or HIPAA. Regular audits and logging would help track compliance and data quality.",
+    "keywords": [
+      "data quality",
+      "data validation",
+      "compliance",
+      "GDPR",
+      "HIPAA",
+      "data anonymization",
+      "encryption"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "Technical Round 2",
+    "question": "Can you explain the concept of 'model interpretability' and how it can be integrated into an MLOps pipeline?",
+    "ideal_answer": "Model interpretability refers to the ability to understand how and why a model makes certain predictions. In an MLOps pipeline, I would integrate model interpretability by using tools such as SHAP, LIME, or integrated gradients to provide explanations for model predictions. These tools can be part of the pipeline, allowing for continuous monitoring of model behavior and ensuring transparency, especially for regulated industries. It's important to communicate these insights to stakeholders to ensure trust in the model's predictions.",
+    "keywords": [
+      "model interpretability",
+      "SHAP",
+      "LIME",
+      "integrated gradients",
+      "model transparency",
+      "stakeholder communication"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "You are given a 2D array of integers envelopes where envelopes[i] = [wi, hi] represents the width and the height of an envelope. One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope's width and height. Return the maximum number of envelopes you can Russian doll (i.e., put one inside the other).\nNote: You cannot rotate an envelope.",
+    "input": [
+      [
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      3,
+      1
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement a Trie with insert and search methods.",
+    "input": [
+      [
+        "insert apple",
+        "search apple",
+        "search app"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Write a function to flatten a nested list structure.",
+    "input": [
+      [
+        [
+          1,
+          [
+            2,
+            [
+              3,
+              4
+            ],
+            5
+          ],
+          6
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed. \nImplement the Twitter class: \nTwitter() Initializes your twitter object.\nvoid postTweet(int userId, int tweetId) Composes a new tweet with ID tweetId by the user userId. Each call to this function will be made with a unique tweetId.\nList<Integer> getNewsFeed(int userId) Retrieves the 10 most recent tweet IDs in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user themself. Tweets must be ordered from most recent to least recent.\nvoid follow(int followerId, int followeeId) The user with ID followerId started following the user with ID followeeId. \nvoid unfollow(int followerId, int followeeId) The user with ID followerId started unfollowing the user with ID followeeId.",
+    "input": [
+      [
+        [
+          "Twitter",
+          "postTweet",
+          "getNewsFeed",
+          "follow",
+          "postTweet",
+          "getNewsFeed",
+          "unfollow",
+          "getNewsFeed"
+        ],
+        [
+          [],
+          [
+            1,
+            5
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        null,
+        null,
+        [
+          5
+        ],
+        null,
+        null,
+        [
+          6,
+          5
+        ],
+        null,
+        [
+          5
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Given a binary tree, write a function to return its level order traversal.",
+    "input": [
+      [
+        1
+      ],
+      [
+        "3,9,20,null,null,15,7"
+      ],
+      []
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ]
+      ],
+      [
+        [
+          3
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          15,
+          7
+        ]
+      ],
+      [
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement a function to compute the Levenshtein distance between two strings.",
+    "input": [
+      [
+        "kitten",
+        "sitting"
+      ],
+      [
+        "flaw",
+        "lawn"
+      ]
+    ],
+    "expected_output": [
+      3,
+      2
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Design a function to detect a cycle in a directed graph using DFS.",
+    "input": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Given a 2D matrix, write a function to return all elements in spiral order.",
+    "input": [
+      [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        6,
+        9,
+        8,
+        7,
+        4,
+        5
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?",
+    "input": [
+      2,
+      3,
+      4
+    ],
+    "expected_output": [
+      2,
+      3,
+      5
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Write a function to return the longest increasing subsequence from a given list of integers.",
+    "input": [
+      [
+        10,
+        9,
+        2,
+        5,
+        3,
+        7,
+        101,
+        18
+      ]
+    ],
+    "expected_output": [
+      4
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement a LRU (Least Recently Used) Cache using a data structure of your choice.",
+    "input": [
+      [
+        "put 1 1",
+        "put 2 2",
+        "get 1",
+        "put 3 3",
+        "get 2"
+      ]
+    ],
+    "expected_output": [
+      1,
+      -1
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Given a list of numbers and a target, return indices of two numbers that add up to the target using a hash map.",
+    "input": [
+      [
+        [
+          2,
+          7,
+          11,
+          15
+        ],
+        9
+      ]
+    ],
+    "expected_output": [
+      [
+        0,
+        1
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Find the longest common substring between two strings.",
+    "input": [
+      [
+        "abcde",
+        "abfce"
+      ],
+      [
+        "jifean kca",
+        "vm"
+      ],
+      [
+        "earcvfa",
+        "rcv"
+      ]
+    ],
+    "expected_output": [
+      "abc",
+      "",
+      "rcv"
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. Note that the path does not need to pass through the root. The path sum of a path is the sum of the node's values in the path. Given the root of a binary tree, return the maximum path sum of any non-empty path.",
+    "input": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        -10,
+        9,
+        20,
+        null,
+        null,
+        15,
+        7
+      ]
+    ],
+    "expected_output": [
+      6,
+      42
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement a Bloom Filter with insert and check operations.",
+    "input": [
+      [
+        "insert hello",
+        "check hello",
+        "check world"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules:\nEach of the digits 1-9 must occur exactly once in each row.\nEach of the digits 1-9 must occur exactly once in each column.\nEach of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.\nThe '.' character indicates empty cells.",
+    "input": [
+      [
+        [
+          "5",
+          "3",
+          ".",
+          ".",
+          "7",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "6",
+          ".",
+          ".",
+          "1",
+          "9",
+          "5",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "9",
+          "8",
+          ".",
+          ".",
+          ".",
+          ".",
+          "6",
+          "."
+        ],
+        [
+          "8",
+          ".",
+          ".",
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          "3"
+        ],
+        [
+          "4",
+          ".",
+          ".",
+          "8",
+          ".",
+          "3",
+          ".",
+          ".",
+          "1"
+        ],
+        [
+          "7",
+          ".",
+          ".",
+          ".",
+          "2",
+          ".",
+          ".",
+          ".",
+          "6"
+        ],
+        [
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          ".",
+          "2",
+          "8",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          "4",
+          "1",
+          "9",
+          ".",
+          ".",
+          "5"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "8",
+          ".",
+          ".",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          "5",
+          "3",
+          "4",
+          "6",
+          "7",
+          "8",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "6",
+          "7",
+          "2",
+          "1",
+          "9",
+          "5",
+          "3",
+          "4",
+          "8"
+        ],
+        [
+          "1",
+          "9",
+          "8",
+          "3",
+          "4",
+          "2",
+          "5",
+          "6",
+          "7"
+        ],
+        [
+          "8",
+          "5",
+          "9",
+          "7",
+          "6",
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        [
+          "4",
+          "2",
+          "6",
+          "8",
+          "5",
+          "3",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "7",
+          "1",
+          "3",
+          "9",
+          "2",
+          "4",
+          "8",
+          "5",
+          "6"
+        ],
+        [
+          "9",
+          "6",
+          "1",
+          "5",
+          "3",
+          "7",
+          "2",
+          "8",
+          "4"
+        ],
+        [
+          "2",
+          "8",
+          "7",
+          "4",
+          "1",
+          "9",
+          "6",
+          "3",
+          "5"
+        ],
+        [
+          "3",
+          "4",
+          "5",
+          "2",
+          "8",
+          "6",
+          "1",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement Dijkstra’s algorithm for a weighted graph.",
+    "input": [
+      "graph adjacency list",
+      "start node"
+    ],
+    "expected_output": [
+      "shortest path distances"
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Detect whether a string has balanced parentheses, brackets, and braces.",
+    "input": [
+      "{[()()]}",
+      "{[(])}"
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Given a list of integers, return all unique subsets.",
+    "input": [
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2
+        ],
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Implement a scheduler that runs tasks based on their frequency and cooling time.",
+    "input": [
+      [
+        "A,A,A,B,B,B"
+      ],
+      2
+    ],
+    "expected_output": [
+      8
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "A tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.\nGiven a tree of n nodes labelled from 0 to n - 1, and an array of n - 1 edges where edges[i] = [ai, bi] indicates that there is an undirected edge between the two nodes ai and bi in the tree, you can choose any node of the tree as the root. When you select a node x as the root, the result tree has height h. Among all possible rooted trees, those with minimum height (i.e. min(h))  are called minimum height trees (MHTs).\nReturn a list of all MHTs' root labels. You can return the answer in any order.\nThe height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.",
+    "input": [
+      [
+        4,
+        [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      [
+        6,
+        [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Count the number of islands in a 2D matrix using BFS/DFS.",
+    "input": [
+      [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      2
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.\nNote that the same word in the dictionary may be reused multiple times in the segmentation.",
+    "input": [
+      [
+        "leetcode",
+        [
+          "leet",
+          "code"
+        ]
+      ],
+      [
+        "catsandog",
+        [
+          "cats",
+          "dog",
+          "sand",
+          "and",
+          "cat"
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "coding",
+    "question": "Write a regex engine supporting *, ., and + operators without using re module.",
+    "input": [
+      [
+        "a*b",
+        "aaab"
+      ]
+    ],
+    "expected_output": [
+      true
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a CI/CD pipeline for deploying a real-time fraud detection ML model that retrains daily on new data.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Architect a scalable ML model registry with automated versioning, rollback, and lineage tracking.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design an infrastructure to test and deploy multiple ML models in parallel using Kubernetes.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Build a monitoring system for detecting concept drift in deployed ML models across distributed environments.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Create a system that auto-scales model inference endpoints based on traffic and GPU availability.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a blueprint for a secure data pipeline that includes anonymization, validation, and storage for ML training.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Architect a low-latency deployment setup for edge-based ML inference with remote model updates.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design an auto-retraining loop that triggers model training based on data quality and statistical shifts.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Create a modular microservice architecture for serving multiple ML models with A/B testing capability.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a centralized feature store with versioning and cross-team access control.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Build a multi-region ML deployment system that supports blue-green and canary releases for models.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Develop a system to track, visualize, and alert on the performance metrics of ML pipelines using Prometheus and Grafana.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a unified deployment system for ML, DL, and NLP models using containers and model-specific optimizations.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Build a secure access control system for ML pipelines that enables audit logging and role-based access.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a fault-tolerant ML workflow orchestration system using Airflow or Kubeflow Pipelines.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Create a dashboard that allows business users to trigger ML model training with configuration options.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Build a shadow deployment architecture that compares new model predictions against production silently.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a platform for federated learning with model aggregation and privacy-preserving features.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Create a GitOps-based system to manage and track model lifecycle events across environments.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Develop an infrastructure that dynamically provisions compute resources for model training jobs.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Architect a pipeline for handling streaming data preprocessing and model scoring in real-time.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a zero-downtime deployment workflow for GPU-based model inference servers.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Create an ML experiment tracking tool that integrates with notebooks, CLI, and APIs.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Build a real-time feedback loop that adapts model behavior based on post-deployment telemetry.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "DevOps + MLOps Engineer",
+    "category": "system_design",
+    "question": "Design a containerized CI/CD system for ML pipelines with pre-commit checks, tests, and approval gates.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  }
+]

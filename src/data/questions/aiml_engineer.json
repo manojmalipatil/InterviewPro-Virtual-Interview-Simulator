@@ -1,0 +1,2084 @@
+[
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "You've been working on an AI\/ML project for the past few months, and it has been a success. However, you feel like there is room for improvement. What would you change about the project to make it even better?",
+    "ideal_answer": "While the project has achieved its core goals, I believe there's always room for refinement. I would begin by incorporating stakeholder and user feedback more thoroughly to ensure the solution aligns closely with real-world use cases. Technically, I would focus on enhancing the model's generalization by expanding the training dataset, fine-tuning hyperparameters, and reducing latency during inference. Additionally, improving the interpretability of the model would make it more transparent and easier to audit, especially in sensitive domains.",
+    "keywords": [
+      "feedback",
+      "improvement",
+      "model",
+      "generalization",
+      "interpretability",
+      "deployment"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What is your biggest weakness?",
+    "ideal_answer": "I am a perfectionist who always strives to be the best in everything I do.",
+    "keywords": [
+      "self-awarenessr",
+      "weakness",
+      "perfectionist",
+      "metrics-driven"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "How would you define 'machine learning'?",
+    "ideal_answer": "Machine learning is the study of computer algorithms that can improve automatically through experience.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "The most challenging thing you have encountered in your role as a AI/ML Engineer?",
+    "ideal_answer": "AI\/ML models are not perfect. The misconceptions in the data are difficult to identify and fix.",
+    "keywords": [
+      "misconceptions",
+      "data",
+      "fix",
+      "models"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What is your interest in AI\/ML?",
+    "ideal_answer": "My interest in AI\/ML stems from my fascination with the potential of this technology to transform society. I am particularly drawn to the ways in which AI can be used to solve complex problems and improve the quality of life for people around the world.",
+    "keywords": [
+      "AI\/ML",
+      "Machine Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "Give me an example of a time you learned from your mistakes.",
+    "ideal_answer": "As an AI/ML engineer, I have made mistakes in the past that have helped me learn and grow. One particular mistake that comes to mind was when I was working on a machine learning model for a client. I had made a small error in the code, which led to the model producing inaccurate results.",
+    "keywords": [
+      "machine learning",
+      "model",
+      "inaccurate results",
+      "client",
+      "accuracy"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "Why do you think we should hire you?",
+    "ideal_answer": "I am a highly motivated and creative individual with a strong technical background and a passion for AI and ML.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What are your expectations from your first job?",
+    "ideal_answer": "A job that lets me explore and learn, and start my career in AI\/ML.",
+    "keywords": [
+      "career",
+      "explore",
+      "learn",
+      "start"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "You have been working as an AI/ML Engineer for the last 5 years. Now, you want to move from a small company to a big company. Why?",
+    "ideal_answer": "To grow my skills and expertise in the field of AI\/ML.",
+    "keywords": [
+      "grow",
+      "skills",
+      "expertise",
+      "big company",
+      "small company"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What are some of the challenges you see the organization facing in the coming five years and how would you suggest addressing them?",
+    "ideal_answer": "I like to be transparent and open with the organization in terms of decision making and I would always value the opinions of my colleagues and take them into consideration while making any decision.",
+    "keywords": [
+      "organization",
+      "decision making",
+      "transparency",
+      "openness",
+      "colleagues"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What do you think is the future of AI\/ML?",
+    "ideal_answer": "AI\/ML is the future of every industry vertical. It is the key to unlocking all the data-related problems in the industry.",
+    "keywords": [
+      "AI\/ML",
+      "future",
+      "technology",
+      "industry"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "How do you rate your interpersonal skills?",
+    "ideal_answer": "I have excellent interpersonal skills and have a good rapport with my teammates and other stakeholders.",
+    "keywords": [
+      "interpersonal",
+      "skills",
+      "teamwork",
+      "stakeholders"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "Name a few companies that you have researched so far.",
+    "ideal_answer": "Google, Facebook, Microsoft, Amazon, and IBM.",
+    "keywords": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon",
+      "IBM"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What is the difference between machine learning and artificial intelligence?",
+    "ideal_answer": "AI is a broader concept, whereas machine learning is a subfield of AI. AI refers to the ability of machines to perform tasks that typically require human intelligence, such as learning, reasoning, and understanding natural language. Machine learning, on the other hand, is a subset of AI that focuses on the development of algorithms that",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What makes you a good fit for this role?",
+    "ideal_answer": "I am a motivated and hardworking individual who is always eager to learn more. I believe that my experience in AI/ML engineering has prepared me well for this role and I am confident that I can make a positive impact within your organization.",
+    "keywords": [
+      "motivated",
+      "hardworking",
+      "eager",
+      "ai/ml engineering",
+      "experience"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What is the best part about being an AI/ML Engineer?",
+    "ideal_answer": "The ever-evolving nature of the field.",
+    "keywords": [
+      "ever-evolving",
+      "field",
+      "ai\/ml",
+      "engineer"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "What is your greatest career achievement?",
+    "ideal_answer": "The biggest achievements that I can think of are -",
+    "keywords": [
+      "achievement",
+      "career",
+      "greatest",
+      "role"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "Why do you want to work for us?",
+    "ideal_answer": "I want to work for your company because your company has a great reputation for innovating in the AI\/ML field. I am excited about the opportunities that your company offers for learning and growth, and I believe that I have the skills and knowledge to contribute to your team's success. Additionally, I am attracted to",
+    "keywords": [
+      "growth",
+      "team",
+      "reputation",
+      "innovation"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "HR",
+    "question": "Why do you want to leave your current job?",
+    "ideal_answer": "I am looking to further my career in a company that will provide me with the opportunity to grow and develop my skills in AI\/ML.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between supervised, unsupervised, and reinforcement learning?",
+    "ideal_answer": "Supervised learning involves training a model on labelled data. Unsupervised learning finds patterns in unlabelled data, while reinforcement learning optimizes a model by rewarding or penalizing actions based on the environment's feedback.",
+    "keywords": [
+      "labelled",
+      "patterns",
+      "rewards",
+      "environment",
+      "feedback"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "Can you explain the concept of overfitting and how to prevent it?",
+    "ideal_answer": "Overfitting occurs when a model learns the training data too well, capturing noise or random fluctuations instead of the underlying pattern. It can be prevented by using techniques such as cross-validation, regularization (like L2 regularization), early stopping, or using more training data.",
+    "keywords": [
+      "overfitting",
+      "training data",
+      "regularization",
+      "cross-validation",
+      "early stopping",
+      "noise",
+      "memorize"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is a confusion matrix, and how do you interpret it?",
+    "ideal_answer": "A confusion matrix is a table used to evaluate the performance of a classification model. It displays the true positives, true negatives, false positives, and false negatives, which help in calculating metrics like accuracy, precision, recall, and F1-score.",
+    "keywords": [
+      "confusion matrix",
+      "classification",
+      "true positives",
+      "false negatives",
+      "precision",
+      "performance"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the bias-variance tradeoff?",
+    "ideal_answer": "The bias-variance tradeoff refers to the balance between underfitting and overfitting. High bias leads to underfitting (the model is too simple), while high variance leads to overfitting (the model is too complex). The goal is to find a model that generalizes well by minimizing both bias and variance.",
+    "keywords": [
+      "bias",
+      "variance",
+      "underfitting",
+      "overfitting",
+      "generalization"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the working of a decision tree algorithm.",
+    "ideal_answer": "A decision tree is a supervised learning algorithm that splits the data into subsets based on feature values. Each internal node represents a feature test, each branch represents an outcome of that test, and each leaf node represents a class label. The goal is to create splits that maximize information gain or minimize impurity.",
+    "keywords": [
+      "decision tree",
+      "supervised learning",
+      "splits",
+      "information gain",
+      "impurity"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What are the different types of neural networks, and when would you use each?",
+    "ideal_answer": "Common types of neural networks include feedforward networks, convolutional neural networks (CNNs) for image data, recurrent neural networks (RNNs) for sequential data, and generative adversarial networks (GANs) for data generation. The choice of network depends on the problem type and data.",
+    "keywords": [
+      "neural networks",
+      "CNN",
+      "RNN",
+      "GAN",
+      "image data"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the purpose of using activation functions in neural networks?",
+    "ideal_answer": "Activation functions introduce non-linearity into the network, allowing it to learn complex patterns. Without activation functions, a neural network would essentially behave like a linear regression model, limiting its capacity to model non-linear relationships.",
+    "keywords": [
+      "activation function",
+      "non-linearity",
+      "complex patterns",
+      "linear regression"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is gradient descent, and how does it work?",
+    "ideal_answer": "Gradient descent is an optimization algorithm used to minimize the loss function by adjusting the model parameters in the opposite direction of the gradient of the loss function with respect to those parameters. It can be performed in batches (batch gradient descent), one example at a time (stochastic gradient descent), or in mini-batches (mini-batch gradient descent).",
+    "keywords": [
+      "gradient descent",
+      "optimization",
+      "loss function",
+      "stochastic",
+      "mini-batch"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between batch and online learning?",
+    "ideal_answer": "Batch learning trains the model on the entire dataset at once, requiring the model to be retrained from scratch when new data arrives. Online learning, on the other hand, updates the model incrementally as new data becomes available, making it suitable for situations where data is streaming in continuously.",
+    "keywords": [
+      "batch learning",
+      "online learning",
+      "incremental updates",
+      "retraining",
+      "streaming data"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the concept of principal component analysis (PCA).",
+    "ideal_answer": "PCA is a dimensionality reduction technique that transforms the data into a new coordinate system where the axes (principal components) are ordered by the amount of variance in the data. The first principal component has the most variance, and each subsequent component has less. PCA is often used for data visualization or to reduce the computational cost of models.",
+    "keywords": [
+      "PCA",
+      "dimensionality reduction",
+      "variance",
+      "coordinate system",
+      "data visualization"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is k-means clustering and how does it work?",
+    "ideal_answer": "K-means is an unsupervised learning algorithm used for clustering. It works by partitioning the data into k clusters by minimizing the sum of squared distances between data points and the centroid of the respective cluster. The algorithm iterates to update the centroids and reassign data points to the closest centroid.",
+    "keywords": [
+      "k-means",
+      "unsupervised learning",
+      "centroids",
+      "data points",
+      "partitioning"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between bagging and boosting?",
+    "ideal_answer": "Bagging (Bootstrap Aggregating) involves training multiple models in parallel using random subsets of the data and combining their predictions. Boosting involves training models sequentially, where each subsequent model corrects the errors made by the previous one. Boosting generally results in stronger predictive models, but can be more prone to overfitting.",
+    "keywords": [
+      "bagging",
+      "boosting",
+      "ensemble methods",
+      "parallel",
+      "sequential",
+      "random"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is a support vector machine (SVM), and how does it work?",
+    "ideal_answer": "SVM is a supervised learning algorithm used for classification and regression tasks. It works by finding the hyperplane that best separates data points of different classes. The margin of separation is maximized to ensure better generalization on unseen data.",
+    "keywords": [
+      "SVM",
+      "support vector machine",
+      "classification",
+      "hyperplane",
+      "margin"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is regularization in machine learning, and why is it necessary?",
+    "ideal_answer": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function. Common types include L1 regularization (Lasso) and L2 regularization (Ridge), which add absolute or squared values of the model parameters, respectively.",
+    "keywords": [
+      "regularization",
+      "overfitting",
+      "penalty",
+      "L1",
+      "L2"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the concept of cross-validation in machine learning.",
+    "ideal_answer": "Cross-validation is a model validation technique used to assess the generalizability of a model. In k-fold cross-validation, the data is split into k subsets. The model is trained on k-1 subsets and validated on the remaining subset, and the process is repeated for each subset.",
+    "keywords": [
+      "cross-validation",
+      "k-fold",
+      "model validation",
+      "generalization",
+      "subset"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between precision and recall?",
+    "ideal_answer": "Precision is the proportion of true positive predictions out of all positive predictions, while recall is the proportion of true positive predictions out of all actual positive instances in the dataset. Precision focuses on the quality of positive predictions, while recall focuses on the model's ability to capture all positive instances.",
+    "keywords": [
+      "precision",
+      "recall",
+      "true positive",
+      "false positive",
+      "classification"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the purpose of dropout in neural networks?",
+    "ideal_answer": "Dropout is a regularization technique where randomly selected neurons are ignored during training. This prevents the network from becoming overly reliant on specific neurons, improving its ability to generalize and reducing overfitting.",
+    "keywords": [
+      "dropout",
+      "regularization",
+      "overfitting",
+      "generalization"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between a generative and discriminative model?",
+    "ideal_answer": "A generative model learns the joint probability distribution of the data and labels, while a discriminative model learns the boundary between classes by modeling the conditional probability of the label given the data. Generative models are used for tasks like generation, while discriminative models are better suited for classification.",
+    "keywords": [
+      "generative model",
+      "discriminative model",
+      "probability",
+      "classification",
+      "generation",
+      "joint probability",
+      "conditional probability"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the purpose of using early stopping in machine learning?",
+    "ideal_answer": "Early stopping is a technique to prevent overfitting by halting the training process when the model's performance on the validation set begins to degrade. This ensures that the model does not continue to learn the noise in the data.",
+    "keywords": [
+      "early stopping",
+      "halting",
+      "overfitting",
+      "validation set",
+      "performance",
+      "training"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between a random forest and a decision tree?",
+    "ideal_answer": "A decision tree is a single model that splits data based on feature values, while a random forest is an ensemble of decision trees. Each tree is trained on a random subset of the data and features, and their predictions are combined to improve accuracy and reduce overfitting.",
+    "keywords": [
+      "splits",
+      "ensemble",
+      "overfitting",
+      "accuracy"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the role of the learning rate in training a neural network?",
+    "ideal_answer": "The learning rate determines the size of the steps the model takes when adjusting its weights during gradient descent. A high learning rate may cause the model to overshoot the optimal solution, while a low learning rate may result in slow convergence.",
+    "keywords": [
+      "learning rate",
+      "gradient descent",
+      "model training",
+      "weights",
+      "convergence"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between a Gaussian Naive Bayes and a Bernoulli Naive Bayes classifier?",
+    "ideal_answer": "Gaussian Naive Bayes assumes that the features follow a Gaussian distribution, while Bernoulli Naive Bayes assumes binary features (0 or 1) and uses the Bernoulli distribution. The choice depends on the nature of the data.",
+    "keywords": [
+      "Gaussian distribution",
+      "Bernoulli distribution",
+      "binary features"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "Explain the working of an artificial neural network (ANN).",
+    "ideal_answer": "An artificial neural network consists of layers of interconnected nodes (neurons). The input is passed through the layers, with each node performing a weighted sum followed by an activation function. The network learns by adjusting the weights during training to minimize the error between predicted and actual outputs.",
+    "keywords": [
+      "neurons",
+      "activation function",
+      "training",
+      "layers"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the purpose of feature scaling, and what are some common techniques?",
+    "ideal_answer": "Feature scaling is used to standardize the range of independent variables in a dataset. Common techniques include min-max scaling, where data is scaled to a specific range (e.g., 0 to 1), and standardization, where data is transformed to have a mean of 0 and a standard deviation of 1.",
+    "keywords": [
+      "feature scaling",
+      "min-max scaling",
+      "standardization",
+      "independent variables",
+      "range"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the difference between precision and F1-score?",
+    "ideal_answer": "Precision is the ratio of true positive predictions to all positive predictions (true positives + false positives), while the F1-score is the harmonic mean of precision and recall, providing a single metric that balances both. It is useful when the class distribution is imbalanced.",
+    "keywords": [
+      "recall",
+      "true positive",
+      "imbalance",
+      "positives",
+      "harmonic mean"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 1",
+    "question": "What is the role of momentum in gradient descent?",
+    "ideal_answer": "Momentum is a technique that helps accelerate gradient descent by adding a fraction of the previous weight update to the current update. This helps the model escape local minima and converge faster.",
+    "keywords": [
+      "momentum",
+      "weight update",
+      "local minima",
+      "convergence"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is a large language model (LLM) and how is it different from traditional machine learning models?",
+    "ideal_answer": "LLMs are deep learning models trained on massive text corpora to understand and generate human-like language. Unlike traditional ML models, LLMs are designed to handle complex natural language tasks, such as translation, summarization, and text generation, without needing task-specific features.",
+    "keywords": [
+      "deep learning",
+      "natural language",
+      "text generation",
+      "massive",
+      "human-like",
+      "not task-specific"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "How does a transformer model work, and why is it effective for NLP tasks?",
+    "ideal_answer": "The transformer model uses self-attention mechanisms to weigh the importance of different parts of the input data, allowing it to process sequences in parallel. This makes transformers highly effective for NLP tasks as they can capture long-range dependencies and context efficiently.",
+    "keywords": [
+      "transformer",
+      "self-attention",
+      "NLP",
+      "sequences",
+      "parallel processing"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the concept of fine-tuning in the context of large language models (LLMs)?",
+    "ideal_answer": "Fine-tuning is the process of adjusting the weights of a pre-trained model on a smaller, task-specific dataset to adapt it for a particular application, such as sentiment analysis, question answering, or summarization.",
+    "keywords": [
+      "pre-trained model",
+      "task-specific",
+      "weights",
+      "adapt"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What are the key components of a retrieval-augmented generation (RAG) system?",
+    "ideal_answer": "A RAG system combines a retrieval module and a generative model. The retrieval module fetches relevant information from a knowledge base, and the generative model uses this context to produce more accurate and informed outputs, reducing hallucination.",
+    "keywords": [
+      "RAG",
+      "retrieval",
+      "generation",
+      "knowledge base",
+      "hallucination"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain the concept of masked language modeling (MLM) used in models like BERT.",
+    "ideal_answer": "Masked language modeling involves training a model to predict missing words in a sentence. During training, certain words are randomly replaced with a [MASK] token, and the model learns to predict the original word based on the surrounding context.",
+    "keywords": [
+      "BERT",
+      "predict",
+      "context",
+      "missing",
+      "token"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the difference between autoregressive and autoencoding models in NLP?",
+    "ideal_answer": "Autoregressive models, like GPT, generate text by predicting the next word based on previous words. Autoencoding models, like BERT, mask parts of the input and learn to reconstruct it. Autoregressive models focus on generation, while autoencoding models focus on understanding.",
+    "keywords": [
+      "previous",
+      "reconstruct",
+      "NLP",
+      "GPT",
+      "BERT",
+      "understanding"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "How do you prevent a language model from generating biased or harmful content?",
+    "ideal_answer": "Bias and harmful content can be mitigated by fine-tuning the model on carefully curated, diverse, and ethically sourced data. Additionally, filtering and post-processing techniques can be applied to remove undesirable outputs.",
+    "keywords": [
+      "fine-tuning",
+      "ethical data",
+      "post-processing",
+      "filtering",
+      "carefully curated"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is zero-shot learning, and how is it applied in NLP tasks?",
+    "ideal_answer": "Zero-shot learning allows models to perform tasks without explicit training on those tasks. In NLP, models like GPT and BERT can perform tasks like sentiment analysis or translation without task-specific fine-tuning, leveraging their general knowledge from pre-training.",
+    "keywords": [
+      "without explicit training",
+      "pre-training",
+      "task",
+      "general knowledge",
+      "GPT"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain the concept of attention mechanisms in transformers and their role in LLMs.",
+    "ideal_answer": "Attention mechanisms allow the model to focus on different parts of the input sequence by assigning weights to them based on their relevance. This is crucial for capturing long-range dependencies and contextual information in LLMs.",
+    "keywords": [
+      "LLM",
+      "weights",
+      "contextual information",
+      "relevance",
+      "dependencies"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What are some common applications of large language models in real-world scenarios?",
+    "ideal_answer": "LLMs are used in various applications like chatbots, sentiment analysis, text summarization, machine translation, and question answering systems. They are also used in content generation, search engines, and personal assistants.",
+    "keywords": [
+      "chatbots",
+      "sentiment analysis",
+      "summarization",
+      "search engines"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the significance of the tokenization process in NLP?",
+    "ideal_answer": "Tokenization is the process of breaking text into smaller units, such as words or subwords. This is crucial for NLP tasks as it converts raw text into a structured format that models can understand and process.",
+    "keywords": [
+      "breaking",
+      "text",
+      "units",
+      "subwords"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you handle long sequences in NLP models, especially in transformers with limited input size?",
+    "ideal_answer": "To handle long sequences, you can use techniques like sliding windows, hierarchical models, or attention mechanisms that focus on relevant parts of the sequence. Some models, like Longformer, are designed specifically to handle long inputs efficiently.",
+    "keywords": [
+      "attention",
+      "sliding windows",
+      "Longformer",
+      "relevance"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "Explain the role of embeddings in NLP models like BERT or GPT.",
+    "ideal_answer": "Embeddings represent words or tokens as continuous vectors in a high-dimensional space, capturing semantic relationships. BERT and GPT use embeddings to convert raw text into a format suitable for processing by deep learning models.",
+    "keywords": [
+      "embeddings",
+      "tokens",
+      "semantic",
+      "continuous vectors"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What are some strategies to improve the efficiency of training large language models?",
+    "ideal_answer": "Strategies to improve training efficiency include using gradient checkpointing, mixed precision training, model parallelism, and data parallelism. Efficient architectures like sparse transformers and knowledge distillation can also help.",
+    "keywords": [
+      "training efficiency",
+      "gradient checkpointing",
+      "mixed precision",
+      "model parallelism",
+      "knowledge distillation"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the purpose of the softmax function in NLP models?",
+    "ideal_answer": "The softmax function is used to normalize the output of a model into a probability distribution. It converts raw model outputs (logits) into probabilities, which are then used to make decisions in classification tasks.",
+    "keywords": [
+      "probability distribution",
+      "logits",
+      "normalize"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "How do models like GPT-3 handle context and maintain coherence in long texts?",
+    "ideal_answer": "GPT-3 uses a large context window and the self-attention mechanism to capture relationships between words and phrases in a long passage, maintaining coherence by considering previous words and generating contextually relevant text.",
+    "keywords": [
+      "large context window",
+      "context",
+      "coherence",
+      "self-attention",
+      "long texts"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the importance of the pre-training and fine-tuning paradigm in large language models?",
+    "ideal_answer": "Pre-training allows the model to learn general language patterns from a large corpus, while fine-tuning adapts the model to specific tasks or domains by training on smaller, task-specific datasets. This two-step process improves efficiency and performance.",
+    "keywords": [
+      "task-specific",
+      "language patterns",
+      "efficiency",
+      "performance"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "How would you evaluate the performance of an NLP model for tasks like sentiment analysis or text classification?",
+    "ideal_answer": "Performance can be evaluated using metrics such as accuracy, precision, recall, F1-score, and AUC-ROC. For imbalanced datasets, metrics like F1-score and precision-recall curves are more informative than accuracy.",
+    "keywords": [
+      "evaluation",
+      "imbalance",
+      "F1-score",
+      "AUC-ROC"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What are some challenges in fine-tuning large language models for specific domains?",
+    "ideal_answer": "Challenges include domain-specific vocabulary, overfitting on limited data, and the risk of catastrophic forgetting. Transfer learning and domain-adaptive pre-training can help overcome these issues.",
+    "keywords": [
+      "fine-tuning",
+      "domain",
+      "overfitting",
+      "catastrophic forgetting",
+      "transfer learning"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What is the significance of tokenizers in NLP and how do they impact model performance?",
+    "ideal_answer": "Tokenizers convert text into tokens that the model can process. The quality of tokenization affects the model's ability to capture semantics. Poor tokenization can lead to inefficiency or loss of meaning, reducing model performance.",
+    "keywords": [
+      "tokenizers",
+      "text",
+      "tokens",
+      "model performance",
+      "semantics"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Technical Round 2",
+    "question": "What are some approaches to reduce the computational cost of training large language models?",
+    "ideal_answer": "Approaches include using smaller models (like distillation), pruning, quantization, and knowledge distillation. Also, reducing the sequence length and using mixed precision training can help reduce computational cost.",
+    "keywords": [
+      "distillation",
+      "quantization",
+      "pruning",
+      "mixed precision"
+    ]
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement a function to compute the Levenshtein distance between two strings.",
+    "input": [
+      [
+        "kitten",
+        "sitting"
+      ],
+      [
+        "flaw",
+        "lawn"
+      ]
+    ],
+    "expected_output": [
+      3,
+      2
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Design a function to detect a cycle in a directed graph using DFS.",
+    "input": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Given a 2D matrix, write a function to return all elements in spiral order.",
+    "input": [
+      [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        6,
+        9,
+        8,
+        7,
+        4,
+        5
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?",
+    "input": [
+      2,
+      3,
+      4
+    ],
+    "expected_output": [
+      2,
+      3,
+      5
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Write a function to return the longest increasing subsequence from a given list of integers.",
+    "input": [
+      [
+        10,
+        9,
+        2,
+        5,
+        3,
+        7,
+        101,
+        18
+      ]
+    ],
+    "expected_output": [
+      4
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement a LRU (Least Recently Used) Cache using a data structure of your choice.",
+    "input": [
+      [
+        "put 1 1",
+        "put 2 2",
+        "get 1",
+        "put 3 3",
+        "get 2"
+      ]
+    ],
+    "expected_output": [
+      1,
+      -1
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Given a list of numbers and a target, return indices of two numbers that add up to the target using a hash map.",
+    "input": [
+      [
+        [
+          2,
+          7,
+          11,
+          15
+        ],
+        9
+      ]
+    ],
+    "expected_output": [
+      [
+        0,
+        1
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement K-Means clustering from scratch (single iteration is enough).",
+    "input": [
+      [
+        [
+          1.0,
+          2.0
+        ],
+        [
+          1.5,
+          1.8
+        ],
+        [
+          5.0,
+          8.0
+        ]
+      ],
+      2
+    ],
+    "expected_output": [
+      "centroids and clustered points"
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "You are given a 2D array of integers envelopes where envelopes[i] = [wi, hi] represents the width and the height of an envelope. One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope's width and height. Return the maximum number of envelopes you can Russian doll (i.e., put one inside the other).\nNote: You cannot rotate an envelope.",
+    "input": [
+      [
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      3,
+      1
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement a Trie with insert and search methods.",
+    "input": [
+      [
+        "insert apple",
+        "search apple",
+        "search app"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Write a function to flatten a nested list structure.",
+    "input": [
+      [
+        [
+          1,
+          [
+            2,
+            [
+              3,
+              4
+            ],
+            5
+          ],
+          6
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed. \nImplement the Twitter class: \nTwitter() Initializes your twitter object.\nvoid postTweet(int userId, int tweetId) Composes a new tweet with ID tweetId by the user userId. Each call to this function will be made with a unique tweetId.\nList<Integer> getNewsFeed(int userId) Retrieves the 10 most recent tweet IDs in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user themself. Tweets must be ordered from most recent to least recent.\nvoid follow(int followerId, int followeeId) The user with ID followerId started following the user with ID followeeId. \nvoid unfollow(int followerId, int followeeId) The user with ID followerId started unfollowing the user with ID followeeId.",
+    "input": [
+      [
+        [
+          "Twitter",
+          "postTweet",
+          "getNewsFeed",
+          "follow",
+          "postTweet",
+          "getNewsFeed",
+          "unfollow",
+          "getNewsFeed"
+        ],
+        [
+          [],
+          [
+            1,
+            5
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        null,
+        null,
+        [
+          5
+        ],
+        null,
+        null,
+        [
+          6,
+          5
+        ],
+        null,
+        [
+          5
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Given a binary tree, write a function to return its level order traversal.",
+    "input": [
+      [
+        1
+      ],
+      [
+        "3,9,20,null,null,15,7"
+      ],
+      []
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ]
+      ],
+      [
+        [
+          3
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          15,
+          7
+        ]
+      ],
+      [
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Find the longest common substring between two strings.",
+    "input": [
+      [
+        "abcde",
+        "abfce"
+      ],
+      [
+        "jifean kca",
+        "vm"
+      ],
+      [
+        "earcvfa",
+        "rcv"
+      ]
+    ],
+    "expected_output": [
+      "abc",
+      "",
+      "rcv"
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. Note that the path does not need to pass through the root. The path sum of a path is the sum of the node's values in the path. Given the root of a binary tree, return the maximum path sum of any non-empty path.",
+    "input": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        -10,
+        9,
+        20,
+        null,
+        null,
+        15,
+        7
+      ]
+    ],
+    "expected_output": [
+      6,
+      42
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement a Bloom Filter with insert and check operations.",
+    "input": [
+      [
+        "insert hello",
+        "check hello",
+        "check world"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules:\nEach of the digits 1-9 must occur exactly once in each row.\nEach of the digits 1-9 must occur exactly once in each column.\nEach of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.\nThe '.' character indicates empty cells.",
+    "input": [
+      [
+        [
+          "5",
+          "3",
+          ".",
+          ".",
+          "7",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "6",
+          ".",
+          ".",
+          "1",
+          "9",
+          "5",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "9",
+          "8",
+          ".",
+          ".",
+          ".",
+          ".",
+          "6",
+          "."
+        ],
+        [
+          "8",
+          ".",
+          ".",
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          "3"
+        ],
+        [
+          "4",
+          ".",
+          ".",
+          "8",
+          ".",
+          "3",
+          ".",
+          ".",
+          "1"
+        ],
+        [
+          "7",
+          ".",
+          ".",
+          ".",
+          "2",
+          ".",
+          ".",
+          ".",
+          "6"
+        ],
+        [
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          ".",
+          "2",
+          "8",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          "4",
+          "1",
+          "9",
+          ".",
+          ".",
+          "5"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "8",
+          ".",
+          ".",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          "5",
+          "3",
+          "4",
+          "6",
+          "7",
+          "8",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "6",
+          "7",
+          "2",
+          "1",
+          "9",
+          "5",
+          "3",
+          "4",
+          "8"
+        ],
+        [
+          "1",
+          "9",
+          "8",
+          "3",
+          "4",
+          "2",
+          "5",
+          "6",
+          "7"
+        ],
+        [
+          "8",
+          "5",
+          "9",
+          "7",
+          "6",
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        [
+          "4",
+          "2",
+          "6",
+          "8",
+          "5",
+          "3",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "7",
+          "1",
+          "3",
+          "9",
+          "2",
+          "4",
+          "8",
+          "5",
+          "6"
+        ],
+        [
+          "9",
+          "6",
+          "1",
+          "5",
+          "3",
+          "7",
+          "2",
+          "8",
+          "4"
+        ],
+        [
+          "2",
+          "8",
+          "7",
+          "4",
+          "1",
+          "9",
+          "6",
+          "3",
+          "5"
+        ],
+        [
+          "3",
+          "4",
+          "5",
+          "2",
+          "8",
+          "6",
+          "1",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement Dijkstra’s algorithm for a weighted graph.",
+    "input": [
+      "graph adjacency list",
+      "start node"
+    ],
+    "expected_output": [
+      "shortest path distances"
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Detect whether a string has balanced parentheses, brackets, and braces.",
+    "input": [
+      "{[()()]}",
+      "{[(])}"
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Given a list of integers, return all unique subsets.",
+    "input": [
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2
+        ],
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Implement a scheduler that runs tasks based on their frequency and cooling time.",
+    "input": [
+      [
+        "A,A,A,B,B,B"
+      ],
+      2
+    ],
+    "expected_output": [
+      8
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "A tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.\nGiven a tree of n nodes labelled from 0 to n - 1, and an array of n - 1 edges where edges[i] = [ai, bi] indicates that there is an undirected edge between the two nodes ai and bi in the tree, you can choose any node of the tree as the root. When you select a node x as the root, the result tree has height h. Among all possible rooted trees, those with minimum height (i.e. min(h))  are called minimum height trees (MHTs).\nReturn a list of all MHTs' root labels. You can return the answer in any order.\nThe height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.",
+    "input": [
+      [
+        4,
+        [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      [
+        6,
+        [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Count the number of islands in a 2D matrix using BFS/DFS.",
+    "input": [
+      [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      2
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.\nNote that the same word in the dictionary may be reused multiple times in the segmentation.",
+    "input": [
+      [
+        "leetcode",
+        [
+          "leet",
+          "code"
+        ]
+      ],
+      [
+        "catsandog",
+        [
+          "cats",
+          "dog",
+          "sand",
+          "and",
+          "cat"
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "coding",
+    "question": "Write a regex engine supporting *, ., and + operators without using re module.",
+    "input": [
+      [
+        "a*b",
+        "aaab"
+      ]
+    ],
+    "expected_output": [
+      true
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a system that personalizes museum tours using computer vision and a wearable camera.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "How would you architect a self-learning news aggregator that evolves based on user reading behaviors?",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design an AI-powered city surveillance system that balances anomaly detection with privacy preservation.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Create a system that generates hyper-personalized workout routines based on real-time biometric data.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a distributed AI system for detecting deepfakes in live video streams at scale.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Build a system that predicts and manages mental burnout in remote teams using passive behavioral signals.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a smart hiring platform that evaluates technical interview code in real-time using adaptive scoring.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "How would you design an AI-powered system for dynamic pricing of electricity in smart homes using real-time weather and consumption forecasts?",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Architect an AI co-pilot for researchers that recommends, reads, and summarizes academic papers continuously.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a real-time voice modulation and sentiment-aware moderation tool for virtual meetings.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Create a cross-lingual ML pipeline that enables rural farmers to query satellite crop data in their local language using voice.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a context-aware augmented reality system that adjusts overlays based on emotional state and gaze tracking.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a large-scale synthetic data generation pipeline for autonomous driving simulation.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Create a decentralized model sharing platform that incentivizes federated learning with on-device training.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design an AI system that automatically maps disaster-affected areas from drone images using limited bandwidth.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Build a live translation pipeline for sign language using computer vision and gesture recognition on edge devices.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "How would you build a scalable crowd-sourced labeling platform that corrects model biases over time?",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a hybrid AI-human moderation system that can triage critical content during internet blackouts.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a personalized education engine that evolves lesson plans based on knowledge gaps and emotional tone from webcam input.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Build an explainability dashboard that visualizes ML predictions and ethical impact metrics in real-time.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Create an AI assistant that writes and debugs code collaboratively in a multiplayer programming environment.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a geospatial AI system that predicts water scarcity zones and recommends mitigation strategies.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Architect a privacy-preserving health data aggregator using differential privacy and secure enclaves.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Design a real-time wildlife monitoring system using AI-enabled drones and edge inferencing.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "system_design",
+    "question": "Create a neural search engine for archived video footage using multimodal embeddings (text + audio + vision).",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  }
+]

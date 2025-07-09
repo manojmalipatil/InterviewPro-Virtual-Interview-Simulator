@@ -1,0 +1,2301 @@
+[
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Tell me about your expectations from your future employer.",
+        "ideal_answer": "I would like to work with a company that is innovative and allows me to learn and grow in my career. I am looking for a company that values its employees and provides opportunities for professional development.",
+        "keywords": [
+            "expectations",
+            "future",
+            "employer",
+            "career"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What is your salary expectation?",
+        "ideal_answer": "$80,000 - $110,000",
+        "keywords": [],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.0
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What is your greatest weakness?",
+        "ideal_answer": "I am a workaholic and sometimes I ignore my family time",
+        "keywords": [
+            "workaholic",
+            "family time",
+            "ignore"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.333
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "One of my previous employers was an absolute nightmare. Can you tell me about a time when you had to deal with an awful boss?",
+        "ideal_answer": "I had a bad experience with one of my previous employers. They were very demanding and didn\u2019t provide a lot of feedback. I found it very difficult to work with them, and it made me feel unmotivated. I eventually left the company and found a better job with a more supportive boss.",
+        "keywords": [
+            "bad experience",
+            "absent boss",
+            "feedback",
+            "unmotivated"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "How do you think your skills and experience can be helpful for our company?",
+        "ideal_answer": "I believe that my skills and experience in full-stack development, AI integration, and problem-solving can be a valuable asset to your company. My ability to work efficiently in a team environment, my strong communication skills, and my passion for continuous learning make me a valuable team member. I am excited about the prospect",
+        "keywords": [
+            "full-stack developer",
+            "artificial intelligence",
+            "integration",
+            "teamwork",
+            "problem solving",
+            "continuous learning"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.167
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "You have a new job offer. If you cannot take this job, why are you looking for a job right now?",
+        "ideal_answer": "I am looking for a new job to find a better opportunity with a good salary package. I want to work with a better company that provides the best work environment.",
+        "keywords": [
+            "job",
+            "offer",
+            "salary",
+            "package",
+            "environment"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Which are the tools that you would use as a Full-stack Developer?",
+        "ideal_answer": "JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, React.js, Redux, React Router, Bootstrap, Sass, Git, Github, Postman, Insomnia, Visual Studio Code, Microsoft Edge DevTools, Jest, Enzyme,",
+        "keywords": [],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.0
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "If you could work anywhere in the world, where would you choose?",
+        "ideal_answer": "If I could work anywhere in the world, I would choose to work in a company that prioritizes employee happiness, supports work-life balance, and offers opportunities for professional growth and development. I am a full-stack developer expertise and believe that being part of a team that values these principles would be",
+        "keywords": [
+            "work",
+            "happiness",
+            "support",
+            "growth"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Tell me about a time when you worked with a team to accomplish a difficult goal.",
+        "ideal_answer": "One example of a time I worked with a team to accomplish a difficult goal was when I was a member of a software development team tasked with building a new e-commerce platform. The project was challenging due to the tight deadline and the need to integrate multiple complex systems. However, through clear communication, effective collaboration,",
+        "keywords": [
+            "teamwork",
+            "collaboration",
+            "deadline",
+            "ecommerce",
+            "software development"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "If you have to create an app to find out the cheapest flight for a given route, how would you go about it?",
+        "ideal_answer": "I would start by researching flight booking websites and their APIs to find the cheapest flights. I would then use a combination of web scraping and data analysis to identify patterns in flight prices and find the cheapest options. I would also consider using machine learning algorithms to predict future flight prices.",
+        "keywords": [
+            "web scraping",
+            "data analysis",
+            "machine learning algorithms",
+            "flight booking websites",
+            "API",
+            "cheapest flights"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.167
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Do you think it's important for a person to be a team player?",
+        "ideal_answer": "Yes",
+        "keywords": [
+            "team",
+            "work",
+            "teamwork",
+            "collaboration"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "How do you handle stress and pressure during a project?",
+        "ideal_answer": "As a Full-stack Developer, I understand the importance of handling stress and pressure during a project. I have developed a combination of techniques to manage stress and pressure, such as taking short breaks, practicing deep breathing, and prioritizing tasks. Additionally, I am open to seeking support from my team",
+        "keywords": [
+            "handling",
+            "pressure",
+            "project",
+            "stress"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What are your hobbies?",
+        "ideal_answer": "Playing basketball, watching movies, reading books.",
+        "keywords": [
+            "reading",
+            "books",
+            "basketball",
+            "movies"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What are the 3 most important skills for a Full-stack Developer?",
+        "ideal_answer": "Creativity, problem-solving skills, and communication skills",
+        "keywords": [
+            "creativity",
+            "problem-solving",
+            "communication"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.333
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "After getting your experience on board, what would be your expectations from the company?",
+        "ideal_answer": "I would expect the company to provide me with opportunities to learn and grow, as well as a supportive work environment that allows me to develop my skills and contribute to the success of the company.",
+        "keywords": [],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.0
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What are your hobbies?",
+        "ideal_answer": "Coding, reading, and playing online games.",
+        "keywords": [
+            "coding",
+            "reading",
+            "online games"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.333
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Tell me about a time when you had to work with a difficult team member.",
+        "ideal_answer": "I am always open to working with different people and finding common ground. There have been situations where I have had to work with difficult team members, but I always try to find a way to cooperate and solve problems together.",
+        "keywords": [],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.0
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "What are your expectations from this job?",
+        "ideal_answer": "I am looking for a challenging and rewarding full-stack development role with AI integration. I am hoping to gain experience with cutting-edge technologies and contribute to projects that have a real impact. Additionally, I am interested in working for a forward-thinking company that values innovation and collaboration.",
+        "keywords": [
+            "expectations",
+            "job",
+            "role",
+            "full-stack",
+            "ai"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "Tell me about a time when you had to build a feature from scratch.",
+        "ideal_answer": "I had to build a feature from scratch for a mobile app that was used by our customers to track their spending. The feature allowed users to set a budget for a specific category, such as groceries or transportation, and the app would track their spending against that budget. I worked with the design team to create wire",
+        "keywords": [
+            "feature",
+            "build",
+            "mobile app",
+            "customers"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-stack Developer",
+        "category": "HR",
+        "question": "If you had the opportunity to work on a project with a celebrity, who would it be and why?",
+        "ideal_answer": "I'd love to work with Steve Jobs, the late co-founder of Apple. He was a visionary and a great leader who changed the way we use technology. I've always been inspired by his passion for innovation and his ability to turn ideas into reality.",
+        "keywords": [
+            "Steve Jobs",
+            "Apple",
+            "innovation",
+            "leadership",
+            "technology"
+        ],
+        "max_score": 5,
+        "min_score": 1,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What is the difference between REST and GraphQL, and when would you use each in a full-stack app with AI features?",
+        "ideal_answer": "REST is based on fixed endpoints, while GraphQL allows flexible queries for exactly the data needed. Use REST for simple CRUD apps and GraphQL for complex data fetching needs with AI integrations.",
+        "keywords": [
+            "REST",
+            "GraphQL",
+            "CRUD",
+            "queries",
+            "flexibility"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How do you integrate machine learning models in a full-stack web application?",
+        "ideal_answer": "I use APIs (e.g., Flask/Django for Python models) to expose the ML model's predictions, then connect them to the front-end via AJAX or RESTful calls.",
+        "keywords": [
+            "integration",
+            "machine learning",
+            "API",
+            "Flask",
+            "AJAX"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What are the common challenges when integrating AI models into a web application and how do you address them?",
+        "ideal_answer": "Challenges include model inference latency, handling large model sizes, and managing dependencies. Solutions involve model optimization, using edge computing, and using Docker containers for portability.",
+        "keywords": [
+            "challenges",
+            "AI models",
+            "latency",
+            "model optimization",
+            "Docker"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "Explain how you can use WebSockets to deliver real-time AI predictions in a full-stack application.",
+        "ideal_answer": "WebSockets provide a persistent connection for sending real-time data. I use it to push AI predictions from the server to the front-end as soon as they are available.",
+        "keywords": [
+            "WebSockets",
+            "real-time",
+            "predictions",
+            "AI",
+            "server"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you deploy an AI model as a microservice and integrate it with the front-end?",
+        "ideal_answer": "I deploy the model using Docker containers, expose its endpoint through a REST API, and integrate it with the front-end using asynchronous JavaScript calls.",
+        "keywords": [
+            "microservice",
+            "deployment",
+            "Docker",
+            "REST API",
+            "asynchronous"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What are the advantages of using cloud services like AWS or GCP for deploying AI models in full-stack applications?",
+        "ideal_answer": "Cloud services provide scalability, managed services (like SageMaker, AI Platform), and easy integration with other cloud infrastructure, making deployment and monitoring more efficient.",
+        "keywords": [
+            "cloud services",
+            "AWS",
+            "GCP",
+            "scalability",
+            "SageMaker"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How do you handle version control for both your front-end and AI models?",
+        "ideal_answer": "I use Git for front-end versioning and version control systems like DVC (Data Version Control) for managing AI model versions.",
+        "keywords": [
+            "version control",
+            "Git",
+            "DVC",
+            "AI models",
+            "front-end"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What steps would you take to ensure the security of AI models integrated into a web application?",
+        "ideal_answer": "I secure models using encryption, model access control, and secure APIs. I also monitor for vulnerabilities in dependencies and apply regular security patches.",
+        "keywords": [
+            "security",
+            "encryption",
+            "access control",
+            "vulnerabilities",
+            "APIs"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "Explain how you would optimize the performance of an AI model deployed in a full-stack web application.",
+        "ideal_answer": "I would optimize the model by quantizing it, using model compression techniques, deploying it on specialized hardware (e.g., GPUs, TPUs), and caching frequent predictions.",
+        "keywords": [
+            "optimization",
+            "quantization",
+            "compression",
+            "GPU",
+            "TPU"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What is the role of a CDN in delivering AI models and predictions in a full-stack app?",
+        "ideal_answer": "A CDN reduces latency by caching model predictions closer to the user and improving load times for front-end applications that request AI predictions frequently.",
+        "keywords": [
+            "CDN",
+            "latency",
+            "caching",
+            "predictions",
+            "front-end"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you implement an AI-powered search feature in a full-stack application?",
+        "ideal_answer": "I would use a machine learning model (e.g., NLP-based search model) on the server to rank and return results, which are then displayed dynamically on the front-end via AJAX.",
+        "keywords": [
+            "AI-powered search",
+            "NLP",
+            "search",
+            "ranking",
+            "AJAX"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What considerations do you need to take when selecting a front-end framework to integrate with AI models?",
+        "ideal_answer": "I consider factors like data handling, support for asynchronous calls, real-time updates (e.g., using React or Vue), and how easy it is to visualize AI predictions.",
+        "keywords": [
+            "front-end",
+            "framework",
+            "integration",
+            "React",
+            "visualization"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you integrate a sentiment analysis model into a full-stack web application?",
+        "ideal_answer": "I would expose the sentiment analysis model as an API and integrate it with the front-end using AJAX calls, processing text input to display sentiment results.",
+        "keywords": [
+            "sentiment analysis",
+            "API",
+            "AJAX",
+            "text input",
+            "model"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What tools and technologies would you use to monitor AI models in a full-stack web app?",
+        "ideal_answer": "I would use monitoring tools like Prometheus, Grafana for system metrics, and custom logging for tracking model accuracy, predictions, and errors.",
+        "keywords": [
+            "monitoring",
+            "Prometheus",
+            "Grafana",
+            "logging",
+            "model accuracy"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "Explain the use of a model registry in the context of full-stack web applications with AI features.",
+        "ideal_answer": "A model registry stores and tracks different versions of AI models, ensuring reproducibility, version control, and easier deployment across environments.",
+        "keywords": [
+            "model registry",
+            "version control",
+            "reproducibility",
+            "AI models",
+            "deployment"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What is the role of caching in AI-based applications, and how would you implement it?",
+        "ideal_answer": "Caching reduces repeated computations by storing previously computed results. I would use tools like Redis or Memcached to cache AI predictions.",
+        "keywords": [
+            "caching",
+            "AI predictions",
+            "Redis",
+            "Memcached",
+            "performance"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What is the purpose of a reverse proxy in a full-stack application with AI integration, and how would you implement it?",
+        "ideal_answer": "A reverse proxy routes client requests to the appropriate backend services, balancing traffic and hiding internal details. I would implement it using tools like Nginx or HAProxy to direct requests to AI models and web servers.",
+        "keywords": [
+            "reverse proxy",
+            "load balancing",
+            "Nginx",
+            "HAProxy",
+            "AI integration"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you optimize a full-stack web application that integrates AI for mobile devices with limited resources?",
+        "ideal_answer": "I would use model quantization, reduce the number of model parameters, and employ client-side processing or edge computing to handle predictions locally, reducing the dependency on the server.",
+        "keywords": [
+            "optimization",
+            "mobile devices",
+            "AI",
+            "quantization",
+            "edge computing"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What are the key considerations when designing a REST API that serves AI model predictions?",
+        "ideal_answer": "Key considerations include ensuring scalability, managing latency, handling errors gracefully, and ensuring proper input validation and security for the model's endpoint.",
+        "keywords": [
+            "REST API",
+            "AI model",
+            "predictions",
+            "scalability",
+            "latency",
+            "security"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you implement user authentication and authorization in a full-stack web application with AI-powered features?",
+        "ideal_answer": "I would implement JWT tokens for stateless authentication, use OAuth for third-party integrations, and control access to AI models by verifying the user's roles and permissions.",
+        "keywords": [
+            "authentication",
+            "authorization",
+            "JWT",
+            "OAuth",
+            "access control",
+            "AI"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you implement logging and debugging for a full-stack app that integrates AI models for predictions?",
+        "ideal_answer": "I would use a centralized logging system like ELK Stack (Elasticsearch, Logstash, Kibana) to log errors, model predictions, and API interactions, along with setting up debugging tools in both the front-end and back-end.",
+        "keywords": [
+            "logging",
+            "debugging",
+            "ELK Stack",
+            "centralized",
+            "AI predictions"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "Explain how you would test and validate the accuracy of an AI model integrated into a full-stack application.",
+        "ideal_answer": "I would use unit tests for front-end components and API calls, integrate model testing using test datasets, and monitor real-world performance by collecting user feedback to ensure the model is functioning correctly.",
+        "keywords": [
+            "testing",
+            "validation",
+            "accuracy",
+            "unit tests",
+            "test datasets",
+            "real-world performance"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How do you ensure that your AI models are scalable and able to handle large volumes of data and users in a full-stack application?",
+        "ideal_answer": "I would use cloud-based services for horizontal scaling, deploy the models as microservices, and optimize model inference time with caching and batch processing techniques.",
+        "keywords": [
+            "scalability",
+            "AI models",
+            "cloud services",
+            "microservices",
+            "batch processing",
+            "caching"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "What would be your approach to handling asynchronous tasks when performing AI inference in a full-stack web application?",
+        "ideal_answer": "I would use background job processing frameworks like Celery (for Python) or Bull (for Node.js) to handle AI inference asynchronously, ensuring non-blocking behavior and improved user experience.",
+        "keywords": [
+            "asynchronous",
+            "AI inference",
+            "background job",
+            "Celery",
+            "Bull"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 1",
+        "question": "How would you manage the deployment lifecycle of AI models in a production full-stack application?",
+        "ideal_answer": "I would use CI/CD pipelines to automate the deployment of AI models, containerize the models using Docker, and deploy them on platforms like Kubernetes for scalable orchestration.",
+        "keywords": [
+            "deployment",
+            "AI models",
+            "CI/CD",
+            "Docker",
+            "Kubernetes",
+            "orchestration"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.25
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you implement AI-based user authentication using facial recognition in a web application?",
+        "ideal_answer": "To implement AI-based user authentication using facial recognition, I would integrate a pre-trained deep learning model such as OpenCV or FaceNet for facial recognition. The model would extract features from the user’s facial image and match them with stored facial data. On the front end, I would use a webcam interface, and on the back end, I would deploy the model using a Flask or FastAPI server to process the recognition in real-time.",
+        "keywords": [
+            "AI",
+            "user authentication",
+            "facial recognition",
+            "OpenCV",
+            "FaceNet",
+            "Flask",
+            "FastAPI"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Explain how you would design a recommendation system for an e-commerce platform that personalizes product suggestions using user behavior data and AI.",
+        "ideal_answer": "I would design the recommendation system using collaborative filtering or content-based filtering techniques. Collaborative filtering would rely on user-item interactions to find similar users and suggest products based on their behavior. Content-based filtering would analyze product attributes and recommend similar products based on a user's past preferences. I would implement the recommendation engine in the backend using Python and integrate it into the frontend using APIs.",
+        "keywords": [
+            "recommendation system",
+            "e-commerce",
+            "personalization",
+            "collaborative filtering",
+            "content-based filtering",
+            "Python",
+            "APIs"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you use AI to detect and prevent fraudulent transactions in an online payment system?",
+        "ideal_answer": "I would train a machine learning model using historical transaction data, including features such as transaction amount, user behavior, and device information. Algorithms like Random Forest or Gradient Boosting would be used to classify transactions as fraudulent or legitimate. On the backend, I would deploy the model to score incoming transactions in real-time and flag suspicious activities for review.",
+        "keywords": [
+            "AI",
+            "fraudulent transactions",
+            "online payment system",
+            "machine learning",
+            "Random Forest",
+            "Gradient Boosting",
+            "real-time"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Describe how you would integrate Natural Language Processing (NLP) into a customer support chatbot for a website.",
+        "ideal_answer": "I would use NLP techniques such as intent recognition and entity extraction to understand user queries. A pre-trained model like BERT or GPT could be fine-tuned to respond intelligently. The backend could use Flask to handle API requests, process the query with the NLP model, and return appropriate responses. I would also implement fallback mechanisms to redirect users to human agents when necessary.",
+        "keywords": [
+            "NLP",
+            "chatbot",
+            "customer support",
+            "intent recognition",
+            "entity extraction",
+            "BERT",
+            "GPT",
+            "Flask"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How can you use machine learning to optimize search results on a website, and what model would you choose for this?",
+        "ideal_answer": "I would implement a ranking model that uses machine learning to rank search results based on user interactions. I would use a model like RankNet or a Gradient Boosting Machine (GBM) to rank the results based on relevance. The model would be trained on user behavior data such as click-through rates and search history. On the backend, I would integrate the model and update search results dynamically.",
+        "keywords": [
+            "machine learning",
+            "search optimization",
+            "ranking model",
+            "RankNet",
+            "Gradient Boosting Machine",
+            "click-through rates"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you integrate a deep learning model to enhance image search capabilities on a website?",
+        "ideal_answer": "To enhance image search, I would use a deep convolutional neural network (CNN) such as ResNet or EfficientNet to extract features from images. The model would encode image data into feature vectors, which could then be compared to search queries using similarity metrics like cosine similarity. On the frontend, I would allow users to upload images, and the backend would process them using the model to find similar images in the database.",
+        "keywords": [
+            "deep learning",
+            "image search",
+            "CNN",
+            "ResNet",
+            "EfficientNet",
+            "feature vectors",
+            "cosine similarity"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Explain how you would use AI to automate the process of classifying user-generated content (e.g., comments, reviews) on a website.",
+        "ideal_answer": "I would train a natural language processing model using labeled datasets of positive, negative, and neutral comments. I would use models like BERT or LSTM for sentiment analysis and text classification. On the backend, I would integrate the model to classify new user-generated content in real-time and display it accordingly on the website. Regular retraining with updated data would help maintain accuracy.",
+        "keywords": [
+            "AI",
+            "user-generated content",
+            "text classification",
+            "NLP",
+            "BERT",
+            "LSTM",
+            "sentiment analysis"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "What are the key considerations when integrating AI-powered features into a high-traffic website, and how would you handle performance challenges?",
+        "ideal_answer": "Key considerations include ensuring scalability, minimizing latency, and handling the resource-intensive nature of AI models. I would deploy AI models using containerization technologies like Docker and Kubernetes for scalability. To handle performance, I would use caching techniques, offload heavy computations to background jobs, and consider edge computing to run models closer to users.",
+        "keywords": [
+            "AI",
+            "scalability",
+            "latency",
+            "Docker",
+            "Kubernetes",
+            "caching",
+            "edge computing"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Describe a real-time AI-based recommendation engine that suggests content based on user activity on a website. What data would you use and which algorithms would you choose?",
+        "ideal_answer": "For real-time recommendations, I would use collaborative filtering or matrix factorization algorithms. I would collect data such as user activity, clicks, and past interactions with content. I would implement a hybrid recommendation system combining collaborative filtering with content-based filtering, and deploy it on a microservices architecture using tools like Kafka for real-time data streaming.",
+        "keywords": [
+            "recommendation engine",
+            "real-time",
+            "collaborative filtering",
+            "matrix factorization",
+            "content-based filtering",
+            "Kafka",
+            "microservices"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "What strategies would you employ to ensure the security and privacy of user data when integrating AI into a web application?",
+        "ideal_answer": "I would use encryption techniques to secure data in transit and at rest, implement access control measures, and anonymize sensitive data where possible. Additionally, I would adhere to GDPR and other data protection regulations. I would also ensure that the AI models do not overfit sensitive information by using techniques like differential privacy during training.",
+        "keywords": [
+            "security",
+            "privacy",
+            "encryption",
+            "access control",
+            "anonymization",
+            "GDPR",
+            "differential privacy"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you use AI to improve user engagement on a social media platform through personalized content delivery?",
+        "ideal_answer": "I would use machine learning algorithms like collaborative filtering and content-based filtering to recommend personalized content to users based on their interactions and preferences. Additionally, I could use natural language processing (NLP) for analyzing user posts to recommend topics and trends. The backend would serve dynamic content recommendations using APIs, while ensuring that the system learns from user behavior over time.",
+        "keywords": [
+            "AI",
+            "user engagement",
+            "social media",
+            "personalized content",
+            "collaborative filtering",
+            "content-based filtering",
+            "NLP"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Explain how you would implement a dynamic user interface that adapts to user behavior using machine learning.",
+        "ideal_answer": "I would collect user interaction data (e.g., clicks, time spent on page) to train machine learning models that predict user preferences. The frontend would dynamically adjust the interface based on predicted user behavior using JavaScript frameworks like React or Angular. On the backend, I would deploy machine learning models in real-time to adjust content, layout, or features based on user activity.",
+        "keywords": [
+            "dynamic interface",
+            "user behavior",
+            "machine learning",
+            "real-time",
+            "React",
+            "Angular",
+            "prediction models"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you implement a custom machine learning model to classify images uploaded by users on a web application?",
+        "ideal_answer": "To implement a custom machine learning model for image classification, I would first collect a labeled dataset of images related to the application. I would use a convolutional neural network (CNN) like ResNet or EfficientNet to train the model. On the backend, I would deploy the model using a framework like TensorFlow or PyTorch and expose an API for the frontend to interact with. Users would upload images, which would be processed by the model to classify and return predictions in real-time.",
+        "keywords": [
+            "machine learning",
+            "image classification",
+            "CNN",
+            "ResNet",
+            "EfficientNet",
+            "TensorFlow",
+            "PyTorch",
+            "API"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "Describe how you would implement a recommendation engine for personalized video suggestions on a streaming platform using AI.",
+        "ideal_answer": "For personalized video recommendations, I would use collaborative filtering techniques, leveraging user interactions (e.g., watched videos, ratings) to find similar users and suggest videos they liked. I could use matrix factorization or deep learning-based methods such as autoencoders for improved accuracy. On the backend, I would integrate the recommendation engine with an API that serves real-time personalized video suggestions based on the user’s viewing history and preferences.",
+        "keywords": [
+            "recommendation engine",
+            "AI",
+            "personalized video suggestions",
+            "collaborative filtering",
+            "matrix factorization",
+            "autoencoders",
+            "API"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you optimize the AI model's inference time to ensure a fast response when integrated into a web application?",
+        "ideal_answer": "To optimize inference time, I would use techniques such as model quantization to reduce the size of the model, and pruning to remove unnecessary neurons. I could also implement model caching to avoid redundant computations and use GPU acceleration if possible. On the server side, I would deploy the model in a microservice architecture with load balancing to ensure scalability and reduce latency during high traffic periods.",
+        "keywords": [
+            "AI model",
+            "inference time",
+            "model quantization",
+            "pruning",
+            "GPU acceleration",
+            "microservice",
+            "load balancing"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "What would you consider when deploying a machine learning model in production for a real-time web application?",
+        "ideal_answer": "When deploying a model in production, I would consider model versioning, continuous monitoring, and retraining. It's important to monitor the model’s performance to ensure it's providing accurate predictions over time. I would also ensure that the model is scalable, using containerization tools like Docker for portability and Kubernetes for scaling. Additionally, I would ensure that proper logging and error handling are in place to capture any issues during inference.",
+        "keywords": [
+            "model deployment",
+            "real-time application",
+            "monitoring",
+            "versioning",
+            "scalability",
+            "Docker",
+            "Kubernetes",
+            "logging"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you implement a feature in a web application to classify user-uploaded text documents (e.g., PDFs) into predefined categories using AI?",
+        "ideal_answer": "I would preprocess the uploaded text documents using OCR (Optical Character Recognition) if the content is not already in text format. Then, I would use NLP techniques such as text vectorization (TF-IDF or Word2Vec) to convert the text into numerical data. I would then use a classification model such as SVM, Random Forest, or a neural network like BERT to classify the document. On the backend, I would expose the model via an API, and the frontend would interact with it to display the classification results.",
+        "keywords": [
+            "NLP",
+            "OCR",
+            "text classification",
+            "BERT",
+            "SVM",
+            "Random Forest",
+            "TF-IDF",
+            "Word2Vec",
+            "API"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you use AI to create a dynamic and adaptive user interface based on real-time data?",
+        "ideal_answer": "I would integrate machine learning models to analyze real-time user behavior (e.g., time spent on the page, click patterns) and dynamically adjust the UI elements accordingly. For example, if a user is more interested in product recommendations, the layout could change to highlight products. I would use JavaScript and React on the frontend to update the UI based on AI-driven insights, while using the backend to serve real-time predictions using models trained on user behavior data.",
+        "keywords": [
+            "AI",
+            "dynamic UI",
+            "adaptive design",
+            "real-time data",
+            "user behavior",
+            "React",
+            "JavaScript",
+            "prediction models"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How can you use reinforcement learning to personalize user interactions on a website?",
+        "ideal_answer": "Reinforcement learning (RL) can be used to personalize user interactions by continuously learning from the user’s actions and providing feedback to optimize the experience. For instance, an RL model could track a user’s interactions with different types of content and adjust the recommendations based on rewards (e.g., clicks, likes). I would implement this using an RL algorithm like Q-learning or deep Q-networks (DQN), where the model learns optimal strategies to enhance user experience over time.",
+        "keywords": [
+            "reinforcement learning",
+            "personalization",
+            "Q-learning",
+            "deep Q-networks",
+            "user interactions"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you integrate AI-based speech recognition into a web application to convert audio to text in real-time?",
+        "ideal_answer": "I would integrate an AI-based speech recognition model, such as Google’s Speech-to-Text API or an open-source model like DeepSpeech, into the web application. The frontend would record the user’s audio, and the backend would process it in real-time using the speech-to-text API. The transcribed text would be returned to the frontend for display or further processing. I would ensure the system handles varying audio quality and multiple languages effectively.",
+        "keywords": [
+            "AI",
+            "speech recognition",
+            "real-time",
+            "speech-to-text",
+            "Google API",
+            "DeepSpeech",
+            "audio processing"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "What is the role of transfer learning in deploying AI models in production, and how would you leverage it for faster model deployment?",
+        "ideal_answer": "Transfer learning allows you to take a pre-trained model (typically trained on a large dataset) and fine-tune it on a smaller, domain-specific dataset. This reduces the amount of data and time required to train a model from scratch. I would leverage transfer learning by using pre-trained models like BERT or VGGNet for tasks such as text classification or image recognition, and fine-tune them for the specific application. This approach ensures faster deployment and improved model performance with limited data.",
+        "keywords": [
+            "transfer learning",
+            "pre-trained models",
+            "model deployment",
+            "fine-tuning",
+            "BERT",
+            "VGGNet"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you integrate AI to improve website accessibility for users with disabilities?",
+        "ideal_answer": "To improve accessibility, I would use AI-powered tools like image recognition for automatic alt-text generation, text-to-speech for visually impaired users, and speech-to-text for users with limited mobility. I would also use NLP models to improve voice commands and assistive navigation. On the frontend, I would integrate these tools into the user interface, ensuring that they are user-friendly and customizable based on the user's needs.",
+        "keywords": [
+            "AI",
+            "accessibility",
+            "image recognition",
+            "text-to-speech",
+            "speech-to-text",
+            "NLP",
+            "assistive technology"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "How would you approach integrating an AI model into a serverless architecture for a web application?",
+        "ideal_answer": "I would deploy the AI model as a serverless function, such as an AWS Lambda or Google Cloud Function, to handle inference requests. This approach would allow the system to scale automatically and only incur costs based on usage. I would use API Gateway to trigger the serverless function and manage incoming requests from the frontend. This ensures that the model is available on-demand without the need for provisioning dedicated servers.",
+        "keywords": [
+            "serverless",
+            "AI model",
+            "AWS Lambda",
+            "Google Cloud Function",
+            "API Gateway",
+            "scalability"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+        "role": "Full-Stack Developer",
+        "category": "Technical Round 2",
+        "question": "What are the challenges of training and deploying large-scale AI models, and how would you overcome them?",
+        "ideal_answer": "The challenges of training large-scale AI models include high computational costs, data quality, and long training times. To overcome these challenges, I would use distributed training across multiple GPUs or cloud-based platforms like AWS or Google Cloud. For data quality, I would implement preprocessing pipelines to clean and augment data. For deployment, I would use model compression techniques like pruning or quantization to reduce model size and optimize inference speed.",
+        "keywords": [
+            "large-scale AI models",
+            "distributed training",
+            "cloud platforms",
+            "data preprocessing",
+            "model compression"
+        ],
+        "max_score": 10,
+        "min_score": 3,
+        "percent_increase": 0.2
+    },
+    {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "You are given a 2D array of integers envelopes where envelopes[i] = [wi, hi] represents the width and the height of an envelope. One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope's width and height. Return the maximum number of envelopes you can Russian doll (i.e., put one inside the other).\nNote: You cannot rotate an envelope.",
+    "input": [
+      [
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      3,
+      1
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement a Trie with insert and search methods.",
+    "input": [
+      [
+        "insert apple",
+        "search apple",
+        "search app"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Write a function to flatten a nested list structure.",
+    "input": [
+      [
+        [
+          1,
+          [
+            2,
+            [
+              3,
+              4
+            ],
+            5
+          ],
+          6
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed. \nImplement the Twitter class: \nTwitter() Initializes your twitter object.\nvoid postTweet(int userId, int tweetId) Composes a new tweet with ID tweetId by the user userId. Each call to this function will be made with a unique tweetId.\nList<Integer> getNewsFeed(int userId) Retrieves the 10 most recent tweet IDs in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user themself. Tweets must be ordered from most recent to least recent.\nvoid follow(int followerId, int followeeId) The user with ID followerId started following the user with ID followeeId. \nvoid unfollow(int followerId, int followeeId) The user with ID followerId started unfollowing the user with ID followeeId.",
+    "input": [
+      [
+        [
+          "Twitter",
+          "postTweet",
+          "getNewsFeed",
+          "follow",
+          "postTweet",
+          "getNewsFeed",
+          "unfollow",
+          "getNewsFeed"
+        ],
+        [
+          [],
+          [
+            1,
+            5
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        null,
+        null,
+        [
+          5
+        ],
+        null,
+        null,
+        [
+          6,
+          5
+        ],
+        null,
+        [
+          5
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Given a binary tree, write a function to return its level order traversal.",
+    "input": [
+      [
+        1
+      ],
+      [
+        "3,9,20,null,null,15,7"
+      ],
+      []
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ]
+      ],
+      [
+        [
+          3
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          15,
+          7
+        ]
+      ],
+      [
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement a function to compute the Levenshtein distance between two strings.",
+    "input": [
+      [
+        "kitten",
+        "sitting"
+      ],
+      [
+        "flaw",
+        "lawn"
+      ]
+    ],
+    "expected_output": [
+      3,
+      2
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Design a function to detect a cycle in a directed graph using DFS.",
+    "input": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Given a 2D matrix, write a function to return all elements in spiral order.",
+    "input": [
+      [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        6,
+        9,
+        8,
+        7,
+        4,
+        5
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?",
+    "input": [
+      2,
+      3,
+      4
+    ],
+    "expected_output": [
+      2,
+      3,
+      5
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Write a function to return the longest increasing subsequence from a given list of integers.",
+    "input": [
+      [
+        10,
+        9,
+        2,
+        5,
+        3,
+        7,
+        101,
+        18
+      ]
+    ],
+    "expected_output": [
+      4
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement a LRU (Least Recently Used) Cache using a data structure of your choice.",
+    "input": [
+      [
+        "put 1 1",
+        "put 2 2",
+        "get 1",
+        "put 3 3",
+        "get 2"
+      ]
+    ],
+    "expected_output": [
+      1,
+      -1
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Given a list of numbers and a target, return indices of two numbers that add up to the target using a hash map.",
+    "input": [
+      [
+        [
+          2,
+          7,
+          11,
+          15
+        ],
+        9
+      ]
+    ],
+    "expected_output": [
+      [
+        0,
+        1
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Find the longest common substring between two strings.",
+    "input": [
+      [
+        "abcde",
+        "abfce"
+      ],
+      [
+        "jifean kca",
+        "vm"
+      ],
+      [
+        "earcvfa",
+        "rcv"
+      ]
+    ],
+    "expected_output": [
+      "abc",
+      "",
+      "rcv"
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. Note that the path does not need to pass through the root. The path sum of a path is the sum of the node's values in the path. Given the root of a binary tree, return the maximum path sum of any non-empty path.",
+    "input": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        -10,
+        9,
+        20,
+        null,
+        null,
+        15,
+        7
+      ]
+    ],
+    "expected_output": [
+      6,
+      42
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement a Bloom Filter with insert and check operations.",
+    "input": [
+      [
+        "insert hello",
+        "check hello",
+        "check world"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules:\nEach of the digits 1-9 must occur exactly once in each row.\nEach of the digits 1-9 must occur exactly once in each column.\nEach of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.\nThe '.' character indicates empty cells.",
+    "input": [
+      [
+        [
+          "5",
+          "3",
+          ".",
+          ".",
+          "7",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "6",
+          ".",
+          ".",
+          "1",
+          "9",
+          "5",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "9",
+          "8",
+          ".",
+          ".",
+          ".",
+          ".",
+          "6",
+          "."
+        ],
+        [
+          "8",
+          ".",
+          ".",
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          "3"
+        ],
+        [
+          "4",
+          ".",
+          ".",
+          "8",
+          ".",
+          "3",
+          ".",
+          ".",
+          "1"
+        ],
+        [
+          "7",
+          ".",
+          ".",
+          ".",
+          "2",
+          ".",
+          ".",
+          ".",
+          "6"
+        ],
+        [
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          ".",
+          "2",
+          "8",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          "4",
+          "1",
+          "9",
+          ".",
+          ".",
+          "5"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "8",
+          ".",
+          ".",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          "5",
+          "3",
+          "4",
+          "6",
+          "7",
+          "8",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "6",
+          "7",
+          "2",
+          "1",
+          "9",
+          "5",
+          "3",
+          "4",
+          "8"
+        ],
+        [
+          "1",
+          "9",
+          "8",
+          "3",
+          "4",
+          "2",
+          "5",
+          "6",
+          "7"
+        ],
+        [
+          "8",
+          "5",
+          "9",
+          "7",
+          "6",
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        [
+          "4",
+          "2",
+          "6",
+          "8",
+          "5",
+          "3",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "7",
+          "1",
+          "3",
+          "9",
+          "2",
+          "4",
+          "8",
+          "5",
+          "6"
+        ],
+        [
+          "9",
+          "6",
+          "1",
+          "5",
+          "3",
+          "7",
+          "2",
+          "8",
+          "4"
+        ],
+        [
+          "2",
+          "8",
+          "7",
+          "4",
+          "1",
+          "9",
+          "6",
+          "3",
+          "5"
+        ],
+        [
+          "3",
+          "4",
+          "5",
+          "2",
+          "8",
+          "6",
+          "1",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement Dijkstra’s algorithm for a weighted graph.",
+    "input": [
+      "graph adjacency list",
+      "start node"
+    ],
+    "expected_output": [
+      "shortest path distances"
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Detect whether a string has balanced parentheses, brackets, and braces.",
+    "input": [
+      "{[()()]}",
+      "{[(])}"
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Given a list of integers, return all unique subsets.",
+    "input": [
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2
+        ],
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Implement a scheduler that runs tasks based on their frequency and cooling time.",
+    "input": [
+      [
+        "A,A,A,B,B,B"
+      ],
+      2
+    ],
+    "expected_output": [
+      8
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "A tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.\nGiven a tree of n nodes labelled from 0 to n - 1, and an array of n - 1 edges where edges[i] = [ai, bi] indicates that there is an undirected edge between the two nodes ai and bi in the tree, you can choose any node of the tree as the root. When you select a node x as the root, the result tree has height h. Among all possible rooted trees, those with minimum height (i.e. min(h))  are called minimum height trees (MHTs).\nReturn a list of all MHTs' root labels. You can return the answer in any order.\nThe height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.",
+    "input": [
+      [
+        4,
+        [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      [
+        6,
+        [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Count the number of islands in a 2D matrix using BFS/DFS.",
+    "input": [
+      [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      2
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.\nNote that the same word in the dictionary may be reused multiple times in the segmentation.",
+    "input": [
+      [
+        "leetcode",
+        [
+          "leet",
+          "code"
+        ]
+      ],
+      [
+        "catsandog",
+        [
+          "cats",
+          "dog",
+          "sand",
+          "and",
+          "cat"
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Full-stack Developer",
+    "category": "coding",
+    "question": "Write a regex engine supporting *, ., and + operators without using re module.",
+    "input": [
+      [
+        "a*b",
+        "aaab"
+      ]
+    ],
+    "expected_output": [
+      true
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design an AI-powered e-commerce recommendation engine that personalizes the entire UI based on user behavior in real-time.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "How would you architect a multilingual chatbot embedded into a customer support portal using NLP and real-time translation?",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Build a system that generates dynamic dashboards from natural language queries using LLMs and backend data APIs.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design an AI-integrated resume shortlisting tool for HR portals that explains its filtering decisions.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Create a code review assistant that plugs into GitHub and highlights risky commits using ML models.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Architect a news website that uses AI to summarize and personalize news feeds per user interest and mood.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Build a collaborative document editing platform with smart suggestions and grammar correction powered by AI.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design a real-time fraud detection system for online transactions with explainable anomaly detection models.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Create a video conferencing app that adds virtual backgrounds and real-time emotion analysis using AI.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Develop a job portal with AI resume analysis and job match scoring with visual insights.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "How would you design an AI-powered virtual interior designer that allows real-time furniture placement using AR and image recognition?",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design a scalable AI-powered feedback system that auto-categorizes reviews and suggests improvements to businesses.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Build a voice-enabled smart assistant for web dashboards that integrates with backend APIs securely.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Create a smart email client that auto-summarizes threads and highlights action items using NLP.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design a sentiment-aware product landing page generator from brief descriptions using GenAI models.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "How would you architect a health portal that provides AI-based triage and alerts using symptom descriptions?",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Build a real-time collaboration app for creative teams with AI-generated suggestions for text and visuals.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Create a decentralized blogging platform where AI checks for plagiarism, bias, and factual errors.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design a portfolio builder that auto-generates sections using data from GitHub and LinkedIn using LLMs.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Architect a unified search system for documents, videos, and images using multimodal embedding search.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Build a user-friendly admin panel that adapts UI complexity based on user expertise using behavior analysis.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design an AI-enhanced file manager that categorizes, tags, and summarizes documents automatically.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Develop an intelligent travel planner that creates itineraries from user interests and budget using AI.",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "How would you build a customer journey optimizer that visualizes churn risk and recommends retention steps using AI?",
+    "difficulty": "hard",
+    "min_score": 4,
+    "max_score": 15
+  },
+  {
+    "role": "Full_Stack_Developer_AI",
+    "category": "system_design",
+    "question": "Design a real-time peer feedback portal for teams with anonymized sentiment analysis and suggestions.",
+    "difficulty": "medium",
+    "min_score": 4,
+    "max_score": 15
+  }
+]

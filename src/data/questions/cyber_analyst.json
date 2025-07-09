@@ -1,0 +1,2263 @@
+[
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What are your career goals?",
+    "ideal_answer": "My career goal is to become a Cybersecurity Analyst and to gain experience in the field. I am also interested in pursuing advanced cybersecurity certifications to enhance my skills.",
+    "keywords": [
+      "career",
+      "goals",
+      "cybersecurity",
+      "analyst"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "Tell me about yourself.",
+    "ideal_answer": "I am a Cybersecurity Analyst with 3 years of experience in the field. I have a strong background in information security and risk management, as well as experience in incident response and forensics. I am highly organized and detail-oriented, with excellent communication and problem-solving skills. I am passionate",
+    "keywords": [
+      "cybersecurity",
+      "analyst",
+      "information security",
+      "risk management",
+      "incident response",
+      "forensics"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.167
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "How often do you work from home?",
+    "ideal_answer": "Once a week, sometimes twice.",
+    "keywords": [
+      "working",
+      "from",
+      "home"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What is your greatest strength?",
+    "ideal_answer": "My ability to think critically and problem-solve.",
+    "keywords": [
+      "thinking",
+      "critically",
+      "problem-solving",
+      "ability"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What is your greatest strength?",
+    "ideal_answer": "My ability to stay focused.",
+    "keywords": [
+      "strengths",
+      "focus",
+      "dedication",
+      "ability"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What is a man-in-the-middle attack?",
+    "ideal_answer": "It is a type of cyber attack that occurs when an attacker secretly intercepts and relays messages between two parties who believe they are communicating directly with each other.",
+    "keywords": [
+      "man-in-the-middle",
+      "attack",
+      "cyber security",
+      "cyber attack"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "Who are the top 3 cybersecurity organizations according to you?",
+    "ideal_answer": "IBM, Dell and Microsoft",
+    "keywords": [
+      "security",
+      "organizations",
+      "cybersecurity"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "How do you define a secure network?",
+    "ideal_answer": "A network that is free from any unauthorized access, that is adequately protected from attacks, and that can withstand any potential threats.",
+    "keywords": [
+      "network security",
+      "network attack",
+      "network vulnerability"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What type of cyber attacks are you aware of?",
+    "ideal_answer": "Cyber attacks are of many types, such as malware attacks, ransomware attacks, phishing attacks, data breaches, DDoS attacks, zero-day attacks, and many more.",
+    "keywords": [
+      "cyber",
+      "attacks",
+      "malware",
+      "ransomware",
+      "phishing",
+      "data"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.167
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "How would you protect your company from a cyber-attack?",
+    "ideal_answer": "Our company has a robust cybersecurity infrastructure in place, which includes firewalls, intrusion detection systems, and advanced threat protection solutions. Additionally, we have implemented strict access controls and regular security audits to ensure that our systems are secure. Furthermore, we provide regular training to our employees on cybersecurity awareness and best",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What does the cybersecurity job position entail?",
+    "ideal_answer": "Cybersecurity is a broad term that encompasses all the activities involved in protecting an organization\u2019s IT infrastructure, network, applications, and data from cyber threats and attacks.",
+    "keywords": [
+      "cybersecurity"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 1.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What do you think is the most important skill to have as a Cybersecurity Analyst?",
+    "ideal_answer": "A Cybersecurity Analyst should know the latest trends in cybersecurity and how to protect the organization from cyber attacks.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "How would you prevent a cyber attack?",
+    "ideal_answer": "Awareness and training",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "So, tell me. You are a Cybersecurity Analyst. What is the first thing you would do if you were hired for a new role?",
+    "ideal_answer": "I would make sure I am familiar with the system, any tools, and the security measures in place. Next, I would meet with my team to discuss their security concerns and the threats they are facing.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "Have you ever worked in a security team with developers?",
+    "ideal_answer": "I have not had the opportunity to work in a security team with developers yet, but I look forward to the chance to do so in the future.",
+    "keywords": [
+      "security",
+      "team",
+      "developers"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What is your dream job?",
+    "ideal_answer": "I've always been passionate about Cybersecurity. I'd like to work in a Cybersecurity Analyst role to further my skills and knowledge in this field.",
+    "keywords": [
+      "Cybersecurity",
+      "Analyst",
+      "Passionate",
+      "Dream job"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "You have two years of experience in the IT field. You want to apply for the Cybersecurity Analyst position, but you are not sure if you have the right skills. What would you do?",
+    "ideal_answer": "I would research the role and requirements and see if I meet the basic qualifications. If so, I would apply and hope for the best.",
+    "keywords": [],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.0
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "You are working on the project of a new social media site, what methods will you use to secure the site?",
+    "ideal_answer": "I would use strong passwords, data encryption, firewalls, intrusion detection systems, and access controls to secure the site.",
+    "keywords": [
+      "social media",
+      "site",
+      "security"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "What are the important skills in cyber security?",
+    "ideal_answer": "The ability to investigate systems and networks, the ability to analyze data to identify security threats, the ability to communicate effectively with other security personnel and non-security personnel, the ability to document security incidents and the ability to be creative in finding solutions to security issues.",
+    "keywords": [
+      "ability",
+      "communication",
+      "cyber security",
+      "documentation",
+      "investigation",
+      "security"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.167
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "category": "HR",
+    "question": "Have you ever been asked to take part in a security investigation?",
+    "ideal_answer": "Yes, I have.",
+    "keywords": [
+      "cybersecurity analyst",
+      "investigation",
+      "security"
+    ],
+    "max_score": 5,
+    "min_score": 1,
+    "percent_increase": 0.333
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How can AI be used to enhance threat detection in cybersecurity?",
+    "ideal_answer": "AI can analyze large volumes of network traffic, identify patterns, and detect anomalies that may indicate a security breach. Machine learning models can also be trained to recognize malware and phishing attempts.",
+    "keywords": [
+      "AI",
+      "threat detection",
+      "machine learning",
+      "network traffic",
+      "anomalies"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What are the benefits of using AI for intrusion detection systems (IDS)?",
+    "ideal_answer": "AI-powered IDS can automatically detect unusual patterns and behaviors that may go unnoticed by traditional systems, adapt to new threats through machine learning, and reduce false positives.",
+    "keywords": [
+      "AI",
+      "intrusion detection",
+      "machine learning",
+      "false positives",
+      "network security"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "Explain how you would use AI for detecting phishing attacks in emails.",
+    "ideal_answer": "I would use AI to analyze email content for suspicious keywords, unusual sender behavior, and abnormal email metadata. Machine learning models can also be trained on historical phishing data to recognize phishing attempts.",
+    "keywords": [
+      "AI",
+      "phishing attacks",
+      "emails",
+      "machine learning",
+      "suspicious behavior"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What is AI-driven vulnerability scanning, and how does it improve security?",
+    "ideal_answer": "AI-driven vulnerability scanning automates the process of identifying security weaknesses in systems. It can prioritize vulnerabilities based on risk levels, learn from past attacks, and suggest optimal remediation actions.",
+    "keywords": [
+      "AI",
+      "vulnerability scanning",
+      "automation",
+      "risk levels",
+      "remediation"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you use AI for real-time network traffic analysis in cybersecurity?",
+    "ideal_answer": "AI can be used to analyze network traffic in real-time to identify unusual patterns, flag potential attacks, and trigger alerts. It can also learn over time to recognize subtle signs of network intrusions.",
+    "keywords": [
+      "AI",
+      "network traffic",
+      "real-time analysis",
+      "anomalies",
+      "intrusion detection"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "Explain how AI can be used to improve endpoint security.",
+    "ideal_answer": "AI can enhance endpoint security by analyzing endpoint behaviors, detecting malware, identifying vulnerabilities, and automating responses to threats such as isolating infected systems or blocking malicious files.",
+    "keywords": [
+      "AI",
+      "endpoint security",
+      "malware",
+      "behavior analysis",
+      "vulnerabilities"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How does AI contribute to the development of adaptive security architectures?",
+    "ideal_answer": "AI can adjust security measures based on evolving threats, enabling dynamic response and automation. It can identify weak points in the architecture and propose changes for enhanced resilience and protection.",
+    "keywords": [
+      "AI",
+      "adaptive security",
+      "automation",
+      "dynamic response",
+      "architecture"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How can AI assist in anomaly detection for behavioral analysis?",
+    "ideal_answer": "AI can analyze user and system behaviors to establish a baseline and detect deviations that may indicate malicious activity. Machine learning models can learn from historical data to improve detection accuracy.",
+    "keywords": [
+      "AI",
+      "anomaly detection",
+      "behavioral analysis",
+      "machine learning",
+      "malicious activity"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What role does AI play in automating threat intelligence gathering?",
+    "ideal_answer": "AI can scrape data from various sources, including dark web forums, and analyze it for emerging threats. It can automatically classify and prioritize threat intelligence, streamlining the decision-making process.",
+    "keywords": [
+      "AI",
+      "threat intelligence",
+      "automation",
+      "data scraping",
+      "emerging threats"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you integrate AI into a Security Information and Event Management (SIEM) system?",
+    "ideal_answer": "I would integrate AI to automate log analysis, identify patterns, detect anomalies, and reduce false positives. AI can also correlate events across different sources to provide more accurate threat alerts.",
+    "keywords": [
+      "AI",
+      "SIEM",
+      "log analysis",
+      "anomalies",
+      "false positives",
+      "threat alerts"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How can AI help in the detection of insider threats in an organization?",
+    "ideal_answer": "AI can monitor user activity, flag unusual access patterns, and detect behaviors that deviate from normal activity, such as accessing unauthorized files or communicating sensitive data.",
+    "keywords": [
+      "AI",
+      "insider threats",
+      "user activity",
+      "unauthorized access",
+      "sensitive data"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What are some common challenges when integrating AI with traditional cybersecurity tools?",
+    "ideal_answer": "Challenges include data quality, model interpretability, integration complexity, and the need for continuous model updates. AI models may also require large amounts of labeled data to be trained effectively.",
+    "keywords": [
+      "AI",
+      "cybersecurity tools",
+      "integration",
+      "challenges",
+      "data quality"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How can AI be used to detect and mitigate Distributed Denial of Service (DDoS) attacks?",
+    "ideal_answer": "AI can detect DDoS attacks by identifying traffic spikes, unusual patterns, and anomalies in real-time. Machine learning models can then automate responses, such as traffic filtering or redirecting traffic to a safe server.",
+    "keywords": [
+      "AI",
+      "DDoS",
+      "traffic analysis",
+      "anomalies",
+      "real-time detection"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you use AI to enhance password protection mechanisms?",
+    "ideal_answer": "AI can analyze password strength, identify patterns in weak passwords, and detect suspicious login attempts. AI can also use multi-factor authentication and risk-based authentication to add an extra layer of protection.",
+    "keywords": [
+      "AI",
+      "password protection",
+      "patterns",
+      "multi-factor authentication",
+      "risk-based authentication"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What techniques would you use to ensure the ethical use of AI in cybersecurity?",
+    "ideal_answer": "I would ensure AI models are transparent, explainable, and unbiased. Regular audits, ethical guidelines, and strict data privacy measures would be enforced to prevent misuse of AI technology.",
+    "keywords": [
+      "AI",
+      "ethical use",
+      "transparency",
+      "bias",
+      "data privacy"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How do you monitor and improve the accuracy of AI models in detecting cybersecurity threats?",
+    "ideal_answer": "I would monitor model performance by analyzing false positives/negatives and retrain models with fresh data. I would also implement feedback loops to continually improve model accuracy.",
+    "keywords": [
+      "monitoring",
+      "AI models",
+      "accuracy",
+      "feedback loop",
+      "cybersecurity threats"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What role does AI play in the automation of incident response in cybersecurity?",
+    "ideal_answer": "AI can automatically identify, classify, and respond to security incidents by executing predefined actions, such as isolating affected systems, blocking malicious traffic, and notifying security teams.",
+    "keywords": [
+      "AI",
+      "incident response",
+      "automation",
+      "classification",
+      "malicious traffic"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you protect AI models from adversarial attacks in a cybersecurity context?",
+    "ideal_answer": "I would use techniques like adversarial training, model validation, and robust testing to safeguard AI models. Additionally, employing defensive mechanisms such as gradient masking can help protect against adversarial manipulation.",
+    "keywords": [
+      "AI",
+      "adversarial attacks",
+      "model protection",
+      "robust testing",
+      "gradient masking"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What AI technologies are best suited for identifying and analyzing malware?",
+    "ideal_answer": "Machine learning algorithms, such as decision trees and neural networks, can analyze file characteristics and network behavior to detect malware. Natural language processing (NLP) can be used to analyze suspicious communication for command-and-control signals.",
+    "keywords": [
+      "AI",
+      "malware detection",
+      "machine learning",
+      "decision trees",
+      "neural networks",
+      "NLP"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What are the advantages of using AI-based behavior analysis over traditional signature-based detection methods in cybersecurity?",
+    "ideal_answer": "AI-based behavior analysis focuses on detecting anomalies in behavior rather than known attack signatures. This enables it to identify new, unknown threats, adapt to evolving tactics, and reduce false positives compared to traditional methods.",
+    "keywords": [
+      "AI",
+      "behavior analysis",
+      "anomaly detection",
+      "signature-based detection",
+      "new threats"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "Explain how AI can be used to improve risk-based access control in an enterprise system.",
+    "ideal_answer": "AI can analyze user behavior and risk factors, such as location, device, and activity, to determine access levels dynamically. It can adjust access rights in real-time based on the current risk, enhancing security while maintaining usability.",
+    "keywords": [
+      "AI",
+      "risk-based access control",
+      "user behavior",
+      "dynamic access",
+      "real-time adjustments"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you apply AI to improve the effectiveness of a Security Operations Center (SOC)?",
+    "ideal_answer": "AI can assist by automating threat detection, classifying incidents based on severity, and prioritizing alerts. Machine learning models can analyze historical attack data to identify emerging trends and provide actionable insights to SOC teams.",
+    "keywords": [
+      "AI",
+      "SOC",
+      "automated detection",
+      "incident classification",
+      "emerging trends"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How does AI assist in automating the process of patch management in cybersecurity?",
+    "ideal_answer": "AI can assess vulnerabilities in systems and prioritize patches based on severity and risk. It can also automate patch deployment and ensure timely updates, reducing the window of opportunity for attacks.",
+    "keywords": [
+      "AI",
+      "patch management",
+      "vulnerabilities",
+      "risk assessment",
+      "automation"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "Can you explain how AI can be used to predict and prevent future cyberattacks using historical data?",
+    "ideal_answer": "AI can analyze historical data, identify attack patterns, and develop predictive models that forecast potential threats. By learning from past incidents, AI can proactively mitigate risk by recommending preventive measures.",
+    "keywords": [
+      "AI",
+      "predictive analysis",
+      "cyberattacks",
+      "historical data",
+      "preventive measures"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "What are some key challenges in deploying AI solutions for cybersecurity, and how can they be addressed?",
+    "ideal_answer": "Challenges include ensuring data privacy, handling bias in AI models, and maintaining model accuracy over time. These can be addressed by using encrypted data, continuous model monitoring, and incorporating diverse datasets during training.",
+    "keywords": [
+      "AI",
+      "cybersecurity",
+      "data privacy",
+      "bias",
+      "model accuracy"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 1",
+    "question": "How would you use AI to optimize a company's endpoint detection and response (EDR) system?",
+    "ideal_answer": "AI can be used to enhance EDR by analyzing endpoint behaviors, detecting anomalies in real-time, and automating responses to suspicious activities. It can also prioritize threats based on severity and help identify previously unseen attack vectors.",
+    "keywords": [
+      "AI",
+      "EDR",
+      "endpoint detection",
+      "real-time analysis",
+      "anomalies",
+      "automated response"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.25
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Describe the process of implementing a threat intelligence platform that integrates machine learning for automated attack classification. What are the potential pitfalls?",
+    "ideal_answer": "To implement an ML-powered threat intelligence platform, I would first gather and preprocess threat data (e.g., indicators of compromise, logs). I would then use NLP techniques to classify threat intelligence reports and ML models like Random Forest to detect attack patterns. Potential pitfalls include handling unstructured data, false positives, and maintaining model performance in real-time.",
+    "keywords": [
+      "threat intelligence",
+      "machine learning",
+      "attack classification",
+      "NLP",
+      "Random Forest",
+      "false positives"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you use unsupervised learning algorithms to detect anomalies in a network? Can you explain the strengths and weaknesses of this approach?",
+    "ideal_answer": "Unsupervised learning algorithms like K-means clustering or DBSCAN can be used to detect anomalies by clustering network traffic and flagging data points that deviate from established patterns. The strength of this approach lies in its ability to detect novel attacks without labeled data, but the challenge lies in managing false positives and the need for significant data preprocessing.",
+    "keywords": [
+      "unsupervised learning",
+      "anomaly detection",
+      "K-means",
+      "DBSCAN",
+      "false positives",
+      "network traffic"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Explain how you would use natural language processing (NLP) techniques to analyze phishing email content for AI-based detection systems.",
+    "ideal_answer": "I would use NLP techniques like text vectorization (TF-IDF, Word2Vec) to extract features from email content. After feature extraction, I would apply a classifier such as SVM or neural networks to detect patterns associated with phishing emails. Key challenges include handling diverse language and varying attack methods.",
+    "keywords": [
+      "NLP",
+      "text vectorization",
+      "TF-IDF",
+      "Word2Vec",
+      "phishing detection",
+      "SVM",
+      "neural networks"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What methods can you use to improve the robustness of an AI-powered security model against adversarial attacks?",
+    "ideal_answer": "To improve robustness, I would employ adversarial training, where I train the model on adversarial examples to make it resilient. I could also use techniques like defensive distillation, gradient masking, or data augmentation to reduce model vulnerability. A key challenge is balancing robustness with model performance.",
+    "keywords": [
+      "adversarial training",
+      "defensive distillation",
+      "gradient masking",
+      "data augmentation",
+      "robustness",
+      "performance"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Describe the architecture of a Machine Learning model that can detect Distributed Denial of Service (DDoS) attacks. What features would you use for detection?",
+    "ideal_answer": "The architecture would involve data collection from network logs and traffic patterns. I would extract features like packet size, request frequency, IP addresses, and response time. The model could be a supervised classifier like Random Forest or a deep learning model, with real-time detection capabilities. Key challenges include handling high-volume traffic and the diversity of attack types.",
+    "keywords": [
+      "DDoS",
+      "machine learning",
+      "traffic patterns",
+      "packet size",
+      "Random Forest",
+      "deep learning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Explain the concept of 'AI-driven security automation' and how it can be used to mitigate advanced persistent threats (APTs).",
+    "ideal_answer": "AI-driven security automation involves using machine learning models to automatically detect, analyze, and respond to threats. For APTs, I would deploy anomaly detection systems to spot unusual network behavior, followed by automated containment and remediation actions. The key challenge is ensuring that the automated system can handle complex, evolving threats.",
+    "keywords": [
+      "AI-driven automation",
+      "security automation",
+      "APTs",
+      "anomaly detection",
+      "automated remediation"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you implement a machine learning-based malware detection system in a real-time production environment? What performance metrics would you use?",
+    "ideal_answer": "I would implement a machine learning-based malware detection system using real-time data from file scans, memory dumps, or system calls. Models like Random Forest or deep learning models could be trained to detect known and unknown malware. Metrics like accuracy, precision, recall, and F1-score would be essential to measure performance, along with system latency for real-time processing.",
+    "keywords": [
+      "malware detection",
+      "real-time",
+      "Random Forest",
+      "deep learning",
+      "accuracy",
+      "precision",
+      "recall",
+      "latency"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Explain how you would use reinforcement learning to develop a cybersecurity defense mechanism. What challenges would you face with this approach?",
+    "ideal_answer": "Reinforcement learning can be used to develop a cybersecurity defense system by training an agent to react to different attack scenarios based on rewards and penalties. The agent learns to block or mitigate attacks to maximize long-term rewards. Challenges include ensuring stability and convergence of the model, handling exploration vs exploitation trade-offs, and adapting to evolving attacks.",
+    "keywords": [
+      "reinforcement learning",
+      "cybersecurity defense",
+      "attack scenarios",
+      "exploration",
+      "convergence"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Discuss the use of behavioral biometrics in AI-based authentication systems. How would you integrate this into a multi-factor authentication (MFA) system?",
+    "ideal_answer": "Behavioral biometrics analyze patterns such as typing speed, mouse movements, and touch gestures to verify a user's identity. I would integrate it into an MFA system by combining it with traditional methods like passwords or OTPs. The challenge lies in minimizing false positives and ensuring privacy compliance.",
+    "keywords": [
+      "behavioral biometrics",
+      "AI-based authentication",
+      "multi-factor authentication",
+      "privacy",
+      "false positives"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you integrate AI in vulnerability management and patching processes? What challenges can arise with this integration?",
+    "ideal_answer": "AI can be used in vulnerability management by predicting potential vulnerabilities based on historical data, automating risk assessments, and recommending patching priorities. For patching, AI can identify the most critical vulnerabilities to address. Challenges include ensuring that AI recommendations are accurate, the need for real-time data, and handling the large scale of patching in complex environments.",
+    "keywords": [
+      "AI",
+      "vulnerability management",
+      "patching",
+      "risk assessments",
+      "recommendations",
+      "real-time data"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you leverage blockchain technology alongside AI to improve data integrity in security monitoring systems?",
+    "ideal_answer": "Blockchain can provide an immutable, decentralized ledger to record security events, while AI can be used to analyze and detect threats in the recorded data. By combining both, we can ensure that the data used for threat analysis is tamper-proof and traceable. The main challenge is managing the scalability of blockchain in large environments.",
+    "keywords": [
+      "blockchain",
+      "AI",
+      "data integrity",
+      "security monitoring",
+      "immutable",
+      "decentralized",
+      "scalability"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What role does anomaly detection play in securing cloud environments? How would you apply AI techniques to enhance anomaly detection in cloud security?",
+    "ideal_answer": "Anomaly detection in cloud environments helps identify unusual activities that might indicate a security breach, such as unauthorized access or data exfiltration. AI techniques like unsupervised learning and clustering can be used to spot abnormal patterns in traffic or user behavior, even without labeled data. The challenge is ensuring that the models are adaptable to the dynamic nature of cloud environments.",
+    "keywords": [
+      "anomaly detection",
+      "cloud security",
+      "unsupervised learning",
+      "clustering",
+      "data exfiltration"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Explain how AI-powered threat hunting can be applied in a Security Operations Center (SOC). What are the key benefits and limitations of this approach?",
+    "ideal_answer": "AI-powered threat hunting automates the identification of suspicious activities in a SOC by using AI to analyze network traffic, system logs, and user behavior. The key benefits include faster detection, reduced workload on human analysts, and the ability to spot new types of threats. Limitations include the potential for false positives and the need for continuous model retraining to keep up with evolving threats.",
+    "keywords": [
+      "AI-powered",
+      "threat hunting",
+      "Security Operations Center",
+      "SOC",
+      "false positives",
+      "model retraining"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Discuss how you would approach the challenge of detecting insider threats using AI and machine learning. What types of data would be most valuable for this task?",
+    "ideal_answer": "To detect insider threats using AI, I would focus on user behavior analytics (UBA), analyzing patterns like login times, file access, and communication frequency. Machine learning models could detect deviations from typical behavior that might indicate malicious intent. The most valuable data includes system logs, user activity logs, and access patterns.",
+    "keywords": [
+      "insider threats",
+      "AI",
+      "machine learning",
+      "user behavior analytics",
+      "UBA",
+      "system logs"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How can adversarial machine learning be used to create more resilient defense mechanisms in cybersecurity? What steps would you take to mitigate adversarial attacks on AI models?",
+    "ideal_answer": "Adversarial machine learning helps improve the resilience of defense mechanisms by training models to recognize and defend against adversarial inputs. To mitigate such attacks, techniques like adversarial training, defensive distillation, and input preprocessing (e.g., feature squeezing) can be employed. A key challenge is balancing robustness with model accuracy.",
+    "keywords": [
+      "adversarial machine learning",
+      "defense mechanisms",
+      "adversarial training",
+      "defensive distillation",
+      "input preprocessing"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you implement an AI-based system to detect advanced persistent threats (APTs) that use fileless malware techniques? What challenges would you face?",
+    "ideal_answer": "To detect APTs using fileless malware, I would focus on monitoring system memory, process behaviors, and network traffic for unusual patterns. AI models like anomaly detection or deep learning could identify deviations from normal behavior. Challenges include the difficulty of detecting fileless malware, the volume of data, and maintaining real-time detection capabilities.",
+    "keywords": [
+      "AI-based system",
+      "APT",
+      "fileless malware",
+      "anomaly detection",
+      "real-time detection",
+      "deep learning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What is the role of explainable AI (XAI) in cybersecurity, and how can it be used to improve transparency in automated threat detection systems?",
+    "ideal_answer": "Explainable AI (XAI) ensures that AI models provide understandable outputs, allowing cybersecurity professionals to trust and interpret the decisions made by automated threat detection systems. In cybersecurity, XAI can be used to explain why a model flagged certain behavior as malicious, enabling analysts to make informed decisions. The challenge is balancing explainability with model complexity.",
+    "keywords": [
+      "explainable AI",
+      "XAI",
+      "cybersecurity",
+      "automated threat detection",
+      "transparency",
+      "trust"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you use AI-based behavioral analytics to detect and prevent ransomware attacks? What data would you need, and how would you integrate this into an existing security system?",
+    "ideal_answer": "AI-based behavioral analytics can help detect ransomware by analyzing patterns such as unusual file encryption or mass file renaming. I would collect data from system activity logs, network traffic, and endpoint behaviors. Integrating AI into an existing system would require a real-time analytics platform and might include incorporating intrusion detection systems (IDS) and endpoint security solutions.",
+    "keywords": [
+      "AI-based",
+      "behavioral analytics",
+      "ransomware",
+      "endpoint security",
+      "intrusion detection",
+      "file encryption"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Describe how AI can enhance the functionality of a Security Information and Event Management (SIEM) system. What key features would you incorporate into a SIEM solution with AI integration?",
+    "ideal_answer": "AI can enhance a SIEM system by automating the identification of security incidents, correlating events from various sources, and reducing false positives. Key features to incorporate would include real-time anomaly detection, predictive analytics for future threats, and machine learning-based incident response. The challenge is ensuring that AI models can adapt to new attack vectors.",
+    "keywords": [
+      "SIEM",
+      "AI",
+      "security incidents",
+      "anomaly detection",
+      "predictive analytics",
+      "machine learning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What are the ethical considerations when applying AI to cybersecurity? How would you ensure that AI systems do not infringe on privacy or civil liberties?",
+    "ideal_answer": "Ethical considerations in AI for cybersecurity include ensuring data privacy, minimizing biases in AI models, and preventing misuse of surveillance tools. To address these, I would implement strong data anonymization techniques, ensure transparency in AI decision-making, and comply with relevant laws like GDPR. The key is maintaining a balance between security and user privacy.",
+    "keywords": [
+      "ethical considerations",
+      "AI",
+      "privacy",
+      "civil liberties",
+      "data anonymization",
+      "GDPR"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you use AI to improve the detection of zero-day vulnerabilities? What data sources would be most useful for training the AI model?",
+    "ideal_answer": "AI can detect zero-day vulnerabilities by analyzing network traffic, application behavior, and system logs for signs of previously unknown exploits. Data sources such as threat intelligence feeds, historical attack patterns, and real-time monitoring data would be useful for training the AI model. One of the challenges is the limited data on zero-day vulnerabilities, making it harder to train the model effectively.",
+    "keywords": [
+      "AI",
+      "zero-day vulnerabilities",
+      "network traffic",
+      "application behavior",
+      "threat intelligence"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Explain how AI can be utilized to enhance traditional Intrusion Detection Systems (IDS). What methods would you use to make the IDS more efficient?",
+    "ideal_answer": "AI can improve traditional IDS by using machine learning models to reduce false positives, increase detection speed, and detect unknown attack patterns. Techniques like supervised learning for known threats and unsupervised learning for unknown threats can be implemented. Integrating AI would involve enhancing the feature extraction process and automating decision-making without human intervention.",
+    "keywords": [
+      "AI",
+      "Intrusion Detection Systems",
+      "IDS",
+      "machine learning",
+      "false positives",
+      "supervised learning",
+      "unsupervised learning"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What are the limitations of using AI for threat detection in encrypted traffic? How can AI still be useful in such scenarios?",
+    "ideal_answer": "AI faces limitations in encrypted traffic as it cannot inspect the content of the data without decryption. However, AI can still be useful by analyzing metadata, such as traffic volume, destination, and frequency of communication, to detect anomalies. The challenge is striking a balance between privacy concerns and effective monitoring.",
+    "keywords": [
+      "AI",
+      "threat detection",
+      "encrypted traffic",
+      "anomalies",
+      "metadata",
+      "privacy"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "Discuss the impact of AI on phishing attack detection and prevention. What methods would you integrate into an AI-based phishing defense system?",
+    "ideal_answer": "AI can detect phishing attacks by analyzing email metadata, links, and the content of the message. Techniques like natural language processing (NLP), URL analysis, and behavior analytics can be integrated into an AI-based phishing defense system. The challenge is ensuring real-time detection and adapting to new phishing tactics.",
+    "keywords": [
+      "AI",
+      "phishing detection",
+      "prevention",
+      "NLP",
+      "URL analysis",
+      "behavior analytics"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "How would you implement a machine learning-based system to automatically prioritize and classify security alerts in a SOC? What algorithms would you consider for this task?",
+    "ideal_answer": "To prioritize and classify security alerts, I would implement a machine learning-based system that uses classification algorithms such as Random Forest, Support Vector Machines (SVM), or Neural Networks. The system would take in alert metadata, incident severity, and historical data to classify the alert and assign a priority level. Feature engineering and training with labeled data are crucial to improve model accuracy, while the system should be adaptable to new threat patterns.",
+    "keywords": [
+      "machine learning",
+      "security alerts",
+      "SOC",
+      "classification algorithms",
+      "Random Forest",
+      "Support Vector Machines",
+      "feature engineering"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "Technical Round 2",
+    "question": "What are the challenges in integrating AI-powered cybersecurity solutions into legacy systems? How would you address these challenges to ensure smooth implementation?",
+    "ideal_answer": "Integrating AI-powered cybersecurity solutions into legacy systems presents challenges such as compatibility with outdated software, data silos, and limited computational resources. To address these, I would focus on ensuring the AI solution can interface with legacy systems through APIs, streamline data integration using ETL (Extract, Transform, Load) processes, and deploy the AI models in a way that does not overload existing system resources, perhaps by utilizing edge computing for resource-heavy tasks.",
+    "keywords": [
+      "AI-powered cybersecurity",
+      "legacy systems",
+      "integration",
+      "APIs",
+      "data silos",
+      "ETL",
+      "edge computing"
+    ],
+    "max_score": 10,
+    "min_score": 3,
+    "percent_increase": 0.2
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "You are given a 2D array of integers envelopes where envelopes[i] = [wi, hi] represents the width and the height of an envelope. One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope's width and height. Return the maximum number of envelopes you can Russian doll (i.e., put one inside the other).\nNote: You cannot rotate an envelope.",
+    "input": [
+      [
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      3,
+      1
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement a Trie with insert and search methods.",
+    "input": [
+      [
+        "insert apple",
+        "search apple",
+        "search app"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Write a function to flatten a nested list structure.",
+    "input": [
+      [
+        [
+          1,
+          [
+            2,
+            [
+              3,
+              4
+            ],
+            5
+          ],
+          6
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed. \nImplement the Twitter class: \nTwitter() Initializes your twitter object.\nvoid postTweet(int userId, int tweetId) Composes a new tweet with ID tweetId by the user userId. Each call to this function will be made with a unique tweetId.\nList<Integer> getNewsFeed(int userId) Retrieves the 10 most recent tweet IDs in the user's news feed. Each item in the news feed must be posted by users who the user followed or by the user themself. Tweets must be ordered from most recent to least recent.\nvoid follow(int followerId, int followeeId) The user with ID followerId started following the user with ID followeeId. \nvoid unfollow(int followerId, int followeeId) The user with ID followerId started unfollowing the user with ID followeeId.",
+    "input": [
+      [
+        [
+          "Twitter",
+          "postTweet",
+          "getNewsFeed",
+          "follow",
+          "postTweet",
+          "getNewsFeed",
+          "unfollow",
+          "getNewsFeed"
+        ],
+        [
+          [],
+          [
+            1,
+            5
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        null,
+        null,
+        [
+          5
+        ],
+        null,
+        null,
+        [
+          6,
+          5
+        ],
+        null,
+        [
+          5
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Given a binary tree, write a function to return its level order traversal.",
+    "input": [
+      [
+        1
+      ],
+      [
+        "3,9,20,null,null,15,7"
+      ],
+      []
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ]
+      ],
+      [
+        [
+          3
+        ],
+        [
+          9,
+          20
+        ],
+        [
+          15,
+          7
+        ]
+      ],
+      [
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement a function to compute the Levenshtein distance between two strings.",
+    "input": [
+      [
+        "kitten",
+        "sitting"
+      ],
+      [
+        "flaw",
+        "lawn"
+      ]
+    ],
+    "expected_output": [
+      3,
+      2
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Design a function to detect a cycle in a directed graph using DFS.",
+    "input": [
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Given a 2D matrix, write a function to return all elements in spiral order.",
+    "input": [
+      [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          4,
+          5,
+          6
+        ],
+        [
+          7,
+          8,
+          9
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1,
+        2,
+        3,
+        6,
+        9,
+        8,
+        7,
+        4,
+        5
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "You are climbing a staircase. It takes n steps to reach the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?",
+    "input": [
+      2,
+      3,
+      4
+    ],
+    "expected_output": [
+      2,
+      3,
+      5
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Write a function to return the longest increasing subsequence from a given list of integers.",
+    "input": [
+      [
+        10,
+        9,
+        2,
+        5,
+        3,
+        7,
+        101,
+        18
+      ]
+    ],
+    "expected_output": [
+      4
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement a LRU (Least Recently Used) Cache using a data structure of your choice.",
+    "input": [
+      [
+        "put 1 1",
+        "put 2 2",
+        "get 1",
+        "put 3 3",
+        "get 2"
+      ]
+    ],
+    "expected_output": [
+      1,
+      -1
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Given a list of numbers and a target, return indices of two numbers that add up to the target using a hash map.",
+    "input": [
+      [
+        [
+          2,
+          7,
+          11,
+          15
+        ],
+        9
+      ]
+    ],
+    "expected_output": [
+      [
+        0,
+        1
+      ]
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Find the longest common substring between two strings.",
+    "input": [
+      [
+        "abcde",
+        "abfce"
+      ],
+      [
+        "jifean kca",
+        "vm"
+      ],
+      [
+        "earcvfa",
+        "rcv"
+      ]
+    ],
+    "expected_output": [
+      "abc",
+      "",
+      "rcv"
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. Note that the path does not need to pass through the root. The path sum of a path is the sum of the node's values in the path. Given the root of a binary tree, return the maximum path sum of any non-empty path.",
+    "input": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        -10,
+        9,
+        20,
+        null,
+        null,
+        15,
+        7
+      ]
+    ],
+    "expected_output": [
+      6,
+      42
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement a Bloom Filter with insert and check operations.",
+    "input": [
+      [
+        "insert hello",
+        "check hello",
+        "check world"
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Write a program to solve a Sudoku puzzle by filling the empty cells. A sudoku solution must satisfy all of the following rules:\nEach of the digits 1-9 must occur exactly once in each row.\nEach of the digits 1-9 must occur exactly once in each column.\nEach of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.\nThe '.' character indicates empty cells.",
+    "input": [
+      [
+        [
+          "5",
+          "3",
+          ".",
+          ".",
+          "7",
+          ".",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          "6",
+          ".",
+          ".",
+          "1",
+          "9",
+          "5",
+          ".",
+          ".",
+          "."
+        ],
+        [
+          ".",
+          "9",
+          "8",
+          ".",
+          ".",
+          ".",
+          ".",
+          "6",
+          "."
+        ],
+        [
+          "8",
+          ".",
+          ".",
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          "3"
+        ],
+        [
+          "4",
+          ".",
+          ".",
+          "8",
+          ".",
+          "3",
+          ".",
+          ".",
+          "1"
+        ],
+        [
+          "7",
+          ".",
+          ".",
+          ".",
+          "2",
+          ".",
+          ".",
+          ".",
+          "6"
+        ],
+        [
+          ".",
+          "6",
+          ".",
+          ".",
+          ".",
+          ".",
+          "2",
+          "8",
+          "."
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          "4",
+          "1",
+          "9",
+          ".",
+          ".",
+          "5"
+        ],
+        [
+          ".",
+          ".",
+          ".",
+          ".",
+          "8",
+          ".",
+          ".",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          "5",
+          "3",
+          "4",
+          "6",
+          "7",
+          "8",
+          "9",
+          "1",
+          "2"
+        ],
+        [
+          "6",
+          "7",
+          "2",
+          "1",
+          "9",
+          "5",
+          "3",
+          "4",
+          "8"
+        ],
+        [
+          "1",
+          "9",
+          "8",
+          "3",
+          "4",
+          "2",
+          "5",
+          "6",
+          "7"
+        ],
+        [
+          "8",
+          "5",
+          "9",
+          "7",
+          "6",
+          "1",
+          "4",
+          "2",
+          "3"
+        ],
+        [
+          "4",
+          "2",
+          "6",
+          "8",
+          "5",
+          "3",
+          "7",
+          "9",
+          "1"
+        ],
+        [
+          "7",
+          "1",
+          "3",
+          "9",
+          "2",
+          "4",
+          "8",
+          "5",
+          "6"
+        ],
+        [
+          "9",
+          "6",
+          "1",
+          "5",
+          "3",
+          "7",
+          "2",
+          "8",
+          "4"
+        ],
+        [
+          "2",
+          "8",
+          "7",
+          "4",
+          "1",
+          "9",
+          "6",
+          "3",
+          "5"
+        ],
+        [
+          "3",
+          "4",
+          "5",
+          "2",
+          "8",
+          "6",
+          "1",
+          "7",
+          "9"
+        ]
+      ]
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement Dijkstra’s algorithm for a weighted graph.",
+    "input": [
+      "graph adjacency list",
+      "start node"
+    ],
+    "expected_output": [
+      "shortest path distances"
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Detect whether a string has balanced parentheses, brackets, and braces.",
+    "input": [
+      "{[()()]}",
+      "{[(])}"
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "java",
+      "cpp"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Given a list of integers, return all unique subsets.",
+    "input": [
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "expected_output": [
+      [
+        [
+          1
+        ],
+        [
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2
+        ],
+        []
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Implement a scheduler that runs tasks based on their frequency and cooling time.",
+    "input": [
+      [
+        "A,A,A,B,B,B"
+      ],
+      2
+    ],
+    "expected_output": [
+      8
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "A tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.\nGiven a tree of n nodes labelled from 0 to n - 1, and an array of n - 1 edges where edges[i] = [ai, bi] indicates that there is an undirected edge between the two nodes ai and bi in the tree, you can choose any node of the tree as the root. When you select a node x as the root, the result tree has height h. Among all possible rooted trees, those with minimum height (i.e. min(h))  are called minimum height trees (MHTs).\nReturn a list of all MHTs' root labels. You can return the answer in any order.\nThe height of a rooted tree is the number of edges on the longest downward path between the root and a leaf.",
+    "input": [
+      [
+        4,
+        [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      [
+        6,
+        [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      ]
+    ],
+    "expected_output": [
+      [
+        1
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Count the number of islands in a 2D matrix using BFS/DFS.",
+    "input": [
+      [
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          1
+        ]
+      ]
+    ],
+    "expected_output": [
+      2
+    ],
+    "language": [
+      "python",
+      "java"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.\nNote that the same word in the dictionary may be reused multiple times in the segmentation.",
+    "input": [
+      [
+        "leetcode",
+        [
+          "leet",
+          "code"
+        ]
+      ],
+      [
+        "catsandog",
+        [
+          "cats",
+          "dog",
+          "sand",
+          "and",
+          "cat"
+        ]
+      ]
+    ],
+    "expected_output": [
+      true,
+      false
+    ],
+    "language": [
+      "python",
+      "cpp"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cyber Security Analyst",
+    "category": "coding",
+    "question": "Write a regex engine supporting *, ., and + operators without using re module.",
+    "input": [
+      [
+        "a*b",
+        "aaab"
+      ]
+    ],
+    "expected_output": [
+      true
+    ],
+    "language": [
+      "python"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an AI-enhanced Intrusion Detection System (IDS) that adapts to new attack vectors using online learning.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create a Zero Trust Network Access (ZTNA) architecture that uses graph-based anomaly detection.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design a phishing detection system that uses transformer models on email text and metadata.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a system to detect insider threats using employee behavior modeling with time-series data.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design a real-time threat-hunting platform that correlates logs using NLP and streaming data analysis.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create a malware sandbox environment that uses image-based CNN classification for malware binaries.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an AI system that identifies shadow IT by learning from network traffic patterns.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a system that prevents data exfiltration using AI-based anomaly detection on outbound traffic.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create an adaptive honeypot system that evolves based on attacker behavior and generates synthetic threats.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design a system that uses reinforcement learning to automate firewall policy optimization.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a multi-modal biometric authentication system with liveness detection and anomaly alerts.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an alert triaging system that uses GPT-like models to summarize, prioritize, and auto-close low-risk events.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create a behavioral authentication system that verifies users based on typing, mouse, and gaze patterns.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design a cyber threat intelligence dashboard that predicts threats using LSTM models from global feeds.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a fake news and deepfake content detector for securing organizational communications.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create a system that uses federated learning across devices to detect mobile threats without central data pooling.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an AI-driven vulnerability management tool that maps CVEs to organization-specific risk.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Architect a data loss prevention (DLP) system that uses NLP to detect sensitive content in documents and chats.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a decentralized, AI-assisted certificate management system that prevents expired or compromised certs.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design a ransomware mitigation platform that predicts vulnerable entry points and performs pre-emptive isolation.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create an explainable AI model that assists in SOC investigations with visual tracebacks and justifications.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Build a system to detect compromised credentials by analyzing dark web leaks and usage behavior changes.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an AI pipeline to detect protocol tunneling and covert channels in encrypted traffic.",
+    "difficulty": "hard"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Create a forensic evidence aggregator that uses NLP to tag, cluster, and summarize incident timelines.",
+    "difficulty": "medium"
+  },
+  {
+    "role": "Cybersecurity_Analyst_AI",
+    "category": "system_design",
+    "question": "Design an AI model that quantifies organizational risk posture dynamically based on threat and behavior trends.",
+    "difficulty": "hard"
+  }
+]
